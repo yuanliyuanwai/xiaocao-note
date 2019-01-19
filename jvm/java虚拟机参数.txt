@@ -1,0 +1,5 @@
+1.设置拓展类加载器
+  一个比较完整的运行jar包的bat写法
+  title C0001
+  java -jar -Djava.ext.dirs="./;./data/;./jms/;./log/;./net/;./xml/;" usms.server.mbean.jar C0001 50001 127.0.0.1 99992
+  pause

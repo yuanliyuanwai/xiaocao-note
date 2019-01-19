@@ -1,0 +1,1 @@
+jar -cvfM0 game.war ./
