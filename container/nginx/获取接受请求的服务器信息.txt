@@ -1,0 +1,8 @@
+可以在server下添加
+add_header backendIP $upstream_addr;
+add_header backendCode $upstream_status;
+
+这样可在浏览器的响应头中看到
+backendIP字段，为后端访问的IP地址
+backendCode字段，为后端服务器返回的HTTP状态码
+可以用来判断哪个服务器接受了请求，并是否正常

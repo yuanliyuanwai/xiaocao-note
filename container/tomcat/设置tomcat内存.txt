@@ -1,0 +1,9 @@
+1.windows下tomcat以bat方式运行
+修改catalina.bat文件在第一行加上set JAVA_OPTS=-Xms1024m -Xmx1024m
+2.windows下tomcat集成在myeclipse里面运行
+
+3.linux下tomcat以sh方式启动
+要添加在tomcat 的bin 下catalina.sh 里，位置cygwin=false前 ，注意引号要带上
+# OS specific support.  $var _must_ be set to either true or false.
+JAVA_OPTS="-Xms256m -Xmx512m -Xss1024K -XX:PermSize=128m -XX:MaxPermSize=256m" 
+cygwin=false

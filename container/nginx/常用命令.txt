@@ -1,0 +1,8 @@
+windows平台
+启动 双击nginx.exe或者start nginx
+关闭 nginx -s stop（立刻停止不保存相关信息） nginx -s quit（正常退出保存相关信息）
+重启 nginx -s reload（改变配置重启）
+
+linux服务器
+启动service nginx start
+重新加载配置文件 nginx -s reload
