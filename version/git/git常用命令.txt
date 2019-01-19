@@ -1,0 +1,21 @@
+0. 设置身份
+ git config --global user.name "yuanliyuanwai"
+ git config --global user.email wanzhengchong@qq.com
+1.创建仓库
+ git init
+2.创建本地文件
+ vi xiaocao.txt
+3. 新增到仓库
+ git add xiaocao.txt
+4. 查看状态
+ git status
+5. 提交到仓库
+ git commit -m "add git china"
+6. 查看日志
+ git log
+7. 比较工作区和暂存区区别
+ git diff
+8. 比较暂存区和仓库区别
+ git diff --cached
+9. 代码下载
+ git clone git://github.com/schacon/simplegit.git 

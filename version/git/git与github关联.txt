@@ -1,0 +1,20 @@
+生成证书
+cd ~
+ssh-keygen -t rsa -C "wanzhengchong@qq.com"
+
+如果是非空项目
+克隆
+git clone git@github.com:xplan/gitchinatest.git
+修改
+git add
+提交
+git commit
+推送
+git push origin master
+
+查看中央仓库地址
+git remote -v
+
+如果是空项目
+git remote add test git@github.com:xplan/gitchinatest.git
+git push test master
