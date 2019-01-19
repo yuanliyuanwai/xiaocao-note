@@ -1,0 +1,36 @@
+delete FROM p2p_member_partner WHERE
+	partner_id IN (
+		SELECT
+			partner_id
+		FROM
+			(
+				SELECT
+					partner_id
+				FROM
+					p2p_member_partner
+				GROUP BY
+					partner_id
+				HAVING
+					count(partner_id) > 1
+			) b
+	)
+AND id NOT IN (
+	SELECT
+		id
+	FROM
+		(
+			SELECT
+				min(id) id
+			FROM
+				p2p_member_partner
+			GROUP BY
+				partner_id
+			HAVING
+				count(partner_id) > 1
+		) c
+);
+
+
+
+delete from ITS_MAILBOX_INFO o 
+   where o.id < (select max(o2.id) from ITS_MAILBOX_INFO o2 where o2.user_id=o.user_id);

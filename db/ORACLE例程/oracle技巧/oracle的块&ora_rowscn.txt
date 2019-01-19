@@ -1,0 +1,17 @@
+数据块（块）:是Oracle最小的存储单位，Oracle数据存放在“块”中。一个块占用一定的磁盘空间。特别注意的是，这里的“块”是Oracle的“数据块”，不是操作系统的“块”。
+
+Oracle每次请求数据的时候，都是以块为单位。也就是说，Oracle每次请求的数据是块的整数倍。如果Oracle请求的数据量不到一块，Oracle也会读取整个块。所以说，“块”是Oracle读写数据的最小单位或者最基本的单位。
+
+块的标准大小由初始化参数DB_BLOCK_SIZE指定。具有标准大小的块称为标准块（Standard Block）。块的大小和标准块的大小不同的块叫非标准块（Nonstandard Block）。同一数据库中，Oracle9i及以上版本支持同一数据库中同时使用标准块和非标准块。Oracle允许指定5种非标准块（Nonstandard Block）。
+
+操作系统每次执行I/O的时候，是以操作系统的块为单位；Oracle每次执行I/O的时候，都是以Oracle的块为单位。
+
+Oracle数据块大小一般是操作系统块的整数倍。
+
+ora_rowscn(伪列):它是用来表示一条数据所在的块最近事物的 SCN值。
+1.ORA_ROWSCN 是数据块级别的，一个数据块里的所有记录都是同一个  ORA_ROWSCN ，这个数据块里的任意一条记录被改变，整个数据块里的ORA_ROWSCN 都会发生改变。
+2.创建表的时候ROWDEPENDENCIES可以来使ora_rowscn真正记录行一级的scn。
+3.ora_rowscn不能用于来查询视图。
+
+
+

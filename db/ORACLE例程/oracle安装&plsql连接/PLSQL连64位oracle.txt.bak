@@ -1,0 +1,26 @@
+安装PLSQL Developer 8不用多说了，但是安装完后会提示找不到相应的32bit客户端，也就是暂时还不支持64bit的  
+经过上网查找，去下载Oracle的Instant Client  
+官方下载地址  
+http://www.oracle.com/technology/software/tech/oci/instantclient/htdocs/winsoft.html  
+
+下载完之后解压到一个路径下  
+然后进入PLSQL Developer 8中--工具 -- 首选项 -- 里边的 Oracle主目录 和OCI库中，分别写入 Oracle Instant Client解压后的路径信息，如下  
+Oracle主目录：Instant Client解压后的目录 ......\instantclient_11_2  
+OCI库：Oracle主目录中的oci.dll文件 ......\instantclient_11_2\oci.dll  
+
+以上配置其实是相当于替换了一下Oracle的客户端  
+
+接下来我们还需要对系统的环境变量进行配置  
+主要需要以下两项  
+变量名：TNS_ADMIN  
+变量值：Oracle安装目录中的 ......\product\11.2.0\dbhome_1\NETWORK\ADMIN  
+变量名：NLS_LANG  
+变量值：AMERICAN_AMERICA.数据库字符编码  
+
+（另外以下是安装Oracle就需要配置的，否则可能会有TNS协议适配器错误）  
+变量名：oracle_sid  
+变量值：Oracle的数据库实例  
+
+其中数据库字符编码可以通过进入SQL PLUS select userenv(‘language’) from dual;来查询  
+
+这样重新启动一下PLSQL Developer试试看 

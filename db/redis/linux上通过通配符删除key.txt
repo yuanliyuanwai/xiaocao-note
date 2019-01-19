@@ -1,0 +1,9 @@
+/usr/local/redis/bin/redis-cli keys "uia_user_info_map*" | xargs /usr/local/redis/bin/redis-cli del
+
+
+如果要指定 Redis 数据库访问密码，使用下面的命令
+redis-cli -a password keys "*" | xargs redis-cli -a password del  
+
+
+如果要访问 Redis 中特定的数据库，使用下面的命令
+redis-cli -n 0 keys "*" | xargs redis-cli -n 0 del  

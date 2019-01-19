@@ -1,0 +1,2 @@
+描述：在升级服务器上的SQL SERVER上遇到了以下问题MsiGetProductInfo” 无法检索 Product Code {F1F1E8540-CF57-485B-9994-BE9E02D29193｝
+解决：在注册表中搜索第一段F1F1E8540和第一段的发序0458E1F1F之后删除

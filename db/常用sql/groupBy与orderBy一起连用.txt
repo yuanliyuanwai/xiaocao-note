@@ -1,0 +1,10 @@
+group by和order by一起连用的时候ORDER BY 子句中的列必须包含在聚合函数或 GROUP BY 子句中
+
+
+错误做法
+SELECT [col1] ,[col2] FROM [tb] GROUP BY [col1] ,[col2]  ORDER BY [col1] ,[col2] ,[col3]
+
+正确做法
+SELECT [col1] ,[col2],MAX([col3]) FROM [tb] GROUP BY [col1] ,[col2]  ORDER BY [col1] ,[col2] ,MAX([col3])
+SELECT [col1] ,[col2],MAX([col3]) AS  [col3] FROM [tb] GROUP BY [col1] ,[col2]  ORDER BY [col1] ,[col2] ,[col3]
+SELECT [col1] ,[col2] FROM [tb] GROUP BY [col1] ,[col2] ,[col3] ORDER BY [col1] ,[col2] ,[col3]

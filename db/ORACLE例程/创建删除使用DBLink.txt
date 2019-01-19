@@ -1,0 +1,17 @@
+-- 创建dblink
+create database link XXX_LINK
+  connect to name identified by pwd    using '
+      (DESCRIPTION = 
+          (ADDRESS_LIST = 
+              (ADDRESS = 
+                 (PROTOCOL = TCP)
+                 (HOST = XXX.XXX.XXX)
+                 (PORT = 1521)) ) 
+              (CONNECT_DATA = 
+                  (SERVICE_NAME = XXXX)
+         ) )';
+
+-- 删除dblink
+drop database link XXX_LINK;
+-- 使用dblink
+select * from ca_init_pwd@link_old_its;

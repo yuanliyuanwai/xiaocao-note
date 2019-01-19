@@ -1,0 +1,54 @@
+sqlplus /NOLOG
+SQL>connect sys/change_on_install as sysdba
+提示：已成功
+
+SQL>shutdown normal
+提示：数据库已经关闭
+已经卸载数据库
+ORACLE 例程已经关闭
+
+SQL>startup mount
+提示：ORACLE例程已经启动
+Total System Global Area 118255568 bytes
+Fixed Size                  282576 bytes
+Variable Size             82886080 bytes
+Database Buffers          33554432 bytes
+Redo Buffers                532480 bytes
+数据库装载完毕
+
+SQL>alter database open;
+提示：
+第 1 行出现错误:
+ORA-01157: 无法标识/锁定数据文件 19 - 请参阅 DBWR 跟踪文件
+ORA-01110: 数据文件 19: ''''C:\oracle\oradata\oradb\FYGL.ORA''
+这个提示文件部分根据每个人不同情况有点差别。
+
+继续输入
+SQL>alter database datafile 19 offline drop;
+提示：数据库已更改。
+
+循环使用最后两步，直到alter database open;后不再提示错误，出现“数据库已更改”。
+然后接着输入即可
+SQL>shutdown normal
+提示：数据库已经关闭
+已经卸载数据库
+ORACLE 例程已经关闭
+
+SQL>startup
+提示：ORACLE例程已经启动
+Total System Global Area 118255568 bytes
+Fixed Size                  282576 bytes
+Variable Size             82886080 bytes
+Database Buffers          33554432 bytes
+Redo Buffers                532480 bytes
+数据库装载完毕
+
+
+就可以解决了。
+5、最后说一下，第一条提到的隐患，因为创建了新的库，ORACLE_SID也就发生了变化，在用户登录的时候会有ORA-12560错误，解决这个问题是将系统注册表中的HKEY_LOCAL_MACHINE\SOFTWARE\ORACLE\HOME0\ORACLE_SID
+键值修改成之前那个SID就可以了，用户也能就能正常登录了。
+
+
+
+
+文章出处：DIY部落(http://www.diybl.com/course/7_databases/oracle/oraclejs/2008515/116741.html)

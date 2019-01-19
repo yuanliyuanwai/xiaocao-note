@@ -1,0 +1,1 @@
+在开始-程序-运行中(或者直接windows+R件同时)，输入regedit回车，在注册表中找到HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager中找到PendingFileRenameOperations删除

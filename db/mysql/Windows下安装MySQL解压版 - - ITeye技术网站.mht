@@ -1,0 +1,3675 @@
+From: =?gb2312?B?0tHTySBJbnRlcm5ldCBFeHBsb3JlciAxMSCxo7Tm?=
+Subject: =?gb2312?B?V2luZG93c8/CsLLXsE15U1FMveLRubDmIC0gLSBJVGV5Zby8yvXN+NW+?=
+Date: Fri, 22 Jan 2016 12:40:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01D15512.25564C80"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+这是 MIME 格式的多方邮件。
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://zm12.sm-img2.com/?src=http%3A%2F%2Fmichael-wong.iteye.com%2Fblog%2F976381&uid=fa59a7c6a0927caa39a8e1b2d7a1fcc2&hid=a933c48194855b6029d11012ee5843c3&pos=3&cid=9&time=1453437613018&from=click&restype=1&pagetype=0000004000000402&bu=news_natural&query=mysql%E8%A7%A3%E5%8E%8B%E7%89%88%E5%AE%89%E8%A3%85&mode=&uc_param_str=dnntnwvepffrgibijbprsvpi
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><HTML><HEAD><META=20
+content=3D"IE=3D11.0000" http-equiv=3D"X-UA-Compatible">
+
+<SCRIPT src=3D"http://zm12.sm-img2.com/gst/js/tick_log_source.js" =
+keep-url=3D"1"></SCRIPT>
+=20
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><LINK =
+href=3D"http://zm12.sm-img2.com/gst/css/??hot.css,common.css,extract.css"=
+=20
+rel=3D"stylesheet">=20
+<META content=3D"iapplication/vnd.wap.xhtml+xml;charset=3DUTF-8" =
+http_equiv=3D"Content-Type">=20
+<META name=3D"viewport" id=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1.0, minimum-scale=3D1.0">=20
+<STYLE></STYLE>
+=20
+<STYLE></STYLE>
+ =
+<TITLE>Windows=E4=B8=8B=E5=AE=89=E8=A3=85MySQL=E8=A7=A3=E5=8E=8B=E7=89=88=
+ - - ITeye=E6=8A=80=E6=9C=AF=E7=BD=91=E7=AB=99</TITLE>=20
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.9600.17842"></HEAD>=20
+<BODY>
+<DIV class=3D"model">
+<DIV class=3D"model_head padd">
+<H3> ITeye=E6=8A=80=E6=9C=AF=E7=BD=91=E7=AB=99</H3><A class=3D"model_pc" =
+onclick=3D"this.href=3Dthis.href.replace('/?', '/back?')"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E7=94=B5=E8=84=91=E7=
+=89=88</A></DIV><!--UCSHARE_TOP_BAR-692a809e-->
+<DIV class=3D"main">=20
+<DIV class=3D"text"><SECTION =
+class=3D"sm_disclaimer">=E6=8F=90=E7=A4=BA:<A =
+href=3D"http://michael-wong.iteye.com/blog/976381"=20
+keep-url=3D"1">=E5=8E=9F=E7=BD=91=E9=A1=B5</A>=E5=B7=B2=E7=94=B1=E7=A5=9E=
+=E9=A9=AC=E6=90=9C=E7=B4=A2=E8=BD=AC=E7=A0=81,=20
+=E5=86=85=E5=AE=B9=E7=94=B1<B>michael-wong.iteye.com</B>=E6=8F=90=E4=BE=9B=
+.</SECTION><SECTION class=3D"sm_navigate" style=3D"height: 60px;">
+<DIV id=3D"sm_navigate_display">
+<DIV class=3D"sm_navigate_item"><A onclick=3D"QueryClick(href); return =
+false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2F&amp;=
+uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderive&=
+amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E9=A6=96=E9=A1=B5</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fnews&=
+amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dder=
+ive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E8=B5=84=E8=AE=AF</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fmagaz=
+ines&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3D=
+derive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E7=B2=BE=E5=8D=8E</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fforum=
+s&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dd=
+erive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E8=AE=BA=E5=9D=9B</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fask&a=
+mp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderi=
+ve&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E9=97=AE=E7=AD=94</A><A =
+id=3D"sm_nav_showOrHide" href=3D"javascript:;"=20
+keep-url=3D"1">=E6=9B=B4=E5=A4=9A=E5=AF=BC=E8=88=AA=E2=86=93</A><A =
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dde=
+rive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E5=8D=9A=E5=AE=A2</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+%2Fsubjects&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&am=
+p;from=3Dderive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E4=B8=93=E6=A0=8F</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fgroup=
+s&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dd=
+erive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E7=BE=A4=E7=BB=84</A></DIV></DIV>
+<DIV id=3D"sm_navigate_not_display">
+<DIV class=3D"sm_navigate_item"><A onclick=3D"QueryClick(href); return =
+false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dd=
+erive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E5=8D=9A=E5=AE=A2</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fweibo&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;=
+from=3Dderive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E5=BE=AE=E5=8D=9A</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Falbum&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;=
+from=3Dderive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E7=9B=B8=E5=86=8C</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Flink&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;f=
+rom=3Dderive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E6=94=B6=E8=97=8F</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fguest_book&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;rest=
+ype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E7=95=99=E8=A8=80</A><A =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fprofile&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=
+=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D270"=20
+add_param=3D"link_type=3D270">=E5=85=B3=E4=BA=8E=E6=88=91</A></DIV></DIV>=
+</SECTION>
+<DIV id=3D"page" style=3D"background: rgb(239, 250, 255); width: 100%; =
+color: rgb(0, 0, 0); box-sizing: border-box;">
+<DIV class=3D"sm_block" id=3D"content" style=3D"width: 100%; text-align: =
+left; clear: both; box-sizing: border-box;">
+<DIV class=3D"shenma_maintext" id=3D"main" style=3D"background: rgb(255, =
+255, 255); padding: 5px; border: 1px solid rgb(16, 138, 198); =
+border-image: none; width: 100%; clear: both; -ms-overflow-y: hidden; =
+box-sizing: border-box;">
+<DIV style=3D"padding: 5px; width: 100%; clear: both; =
+border-bottom-color: rgb(16, 138, 198); border-bottom-width: 1px; =
+border-bottom-style: dotted; box-sizing: border-box;">
+<DIV>
+<H3 class=3D" sm_bf" style=3D"margin: 0px 0px 5px; padding: 5px 0px 0px; =
+font-weight: 700;"><A=20
+class=3D"shenma_articletitle" style=3D"color: rgb(16, 138, 198); =
+text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">Windows=E4=B8=8B=E5=
+=AE=89=E8=A3=85MySQL=E8=A7=A3=E5=8E=8B=E7=89=88</A><EM></EM>=20
+</H3>
+<DIV style=3D"margin: 5px 0px; clear: both;"><A style=3D"background: =
+rgb(170, 181, 195); margin: 0px 5px 5px 0px; padding: 0px 5px; color: =
+rgb(255, 255, 255); display: inline-block;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+%2Ftag%2FMySQL&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1=
+&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+add_param=3D"link_type=3D260">MySQL</A><A style=3D"background: rgb(170, =
+181, 195); margin: 0px 5px 5px 0px; padding: 0px 5px; color: rgb(255, =
+255, 255); display: inline-block;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+%2Ftag%2FWindows&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+add_param=3D"link_type=3D260">Windows</A><A style=3D"background: =
+rgb(170, 181, 195); margin: 0px 5px 5px 0px; padding: 0px 5px; color: =
+rgb(255, 255, 255); display: inline-block;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+%2Ftag%2FC&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp=
+;from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+add_param=3D"link_type=3D260">C</A><A style=3D"background: rgb(170, 181, =
+195); margin: 0px 5px 5px 0px; padding: 0px 5px; color: rgb(255, 255, =
+255); display: inline-block;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+%2Ftag%2FC%2B%2B&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+add_param=3D"link_type=3D260">C++</A><A style=3D"background: rgb(170, =
+181, 195); margin: 0px 5px 5px 0px; padding: 0px 5px; color: rgb(255, =
+255, 255); display: inline-block;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+%2Ftag%2FC%2523&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+add_param=3D"link_type=3D260">C#</A>&nbsp;</DIV></DIV>
+<DIV=20
+id=3D"blog_content">=E5=88=B0=E5=AE=98=E7=BD=91=E4=B8=8B=E8=BD=BDmysql-5.=
+5.10-win32.zip=EF=BC=8C=E7=84=B6=E5=90=8E=E5=B0=86mysql=E8=A7=A3=E5=8E=8B=
+=E5=88=B0=E4=BB=BB=E6=84=8F=E8=B7=AF=E5=BE=84=EF=BC=8C=E5=A6=82=EF=BC=9AC=
+:\mysql-5.5.10-win32=20
+<BR><BR>=E6=89=93=E5=BC=80=E8=AE=A1=E7=AE=97=E6=9C=BA-&gt;=E5=B1=9E=E6=80=
+=A7-&gt;=E9=AB=98=E7=BA=A7=E7=B3=BB=E7=BB=9F=E8=AE=BE=E7=BD=AE-&gt;=E7=8E=
+=AF=E5=A2=83=E5=8F=98=E9=87=8F=EF=BC=8C=E6=96=B0=E5=BB=BA=E4=B8=80=E4=B8=AA=
+=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F=EF=BC=8C=E5=8F=98=E9=87=8F=E5=90=8D=E4=
+=B8=BA=EF=BC=9A<STRONG style=3D"font-weight: =
+700;">MYSQL_HOME</STRONG>=EF=BC=8C=E5=8F=98=E9=87=8F=E5=80=BC=E4=B8=BA=E4=
+=BD=A0=E7=9A=84mysql=E6=A0=B9=E7=9B=AE=E5=BD=95=EF=BC=8C=E5=A6=82=EF=BC=9A=
+C:\mysql-5.5.10-win32=20
+<BR>=E7=84=B6=E5=90=8E=E5=9C=A8=E7=B3=BB=E7=BB=9F=E5=8F=98=E9=87=8F<STRON=
+G style=3D"font-weight: =
+700;">Path</STRONG>=E4=B8=AD=E6=B7=BB=E5=8A=A0=EF=BC=9A;<STRONG =
+style=3D"font-weight: =
+700;">%MYSQL_HOME%\bin</STRONG><BR><BR>=E5=9C=A8=E6=A0=B9=E7=9B=AE=E5=BD=95=
+=E4=B8=8B=E9=9D=A2=E6=9C=89=E5=87=A0=E4=B8=AA=E5=B7=B2=E7=BB=8F=E5=86=99=E5=
+=A5=BD=E7=9A=84"my-"=E5=BC=80=E5=A4=B4=E7=9A=84ini=E6=96=87=E4=BB=B6=EF=BC=
+=8C=E9=80=89=E4=B8=80=E4=B8=AA=E9=80=82=E5=90=88=E4=BD=A0=E7=9A=84=EF=BC=8C=
+=E5=A6=82=EF=BC=9Amy-small.ini=E3=80=82=E5=A4=8D=E5=88=B6=E4=B8=80=E4=BB=BD=
+=EF=BC=8C=E5=B0=86=E6=96=87=E4=BB=B6=E5=90=8D=E4=BF=AE=E6=94=B9=E4=B8=BAm=
+y.ini=EF=BC=8C=E6=B7=BB=E5=8A=A0=E4=BB=A5=E4=B8=8B=E5=86=85=E5=AE=B9=EF=BC=
+=9A=20
+<BR>
+<DIV class=3D" sm_sf" style=3D"padding: 1px 5px 1px 1px;">
+<DIV>
+<DIV style=3D"padding: 3px; font-weight: =
+700;">Properties=E4=BB=A3=E7=A0=81 &nbsp;<A id=3D"uc_click_base_url"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60"=20
+shenma_update=3D"http://michael-wong.iteye.com/blog/976381"></A>
+<SCRIPT type=3D"text/javascript"></SCRIPT>
+<A style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"uc_click(this,'bTkwACVIFHXDzR22k6MTBRNe5uX1rxP4YYtnWyjm4cXQSjW=
++dwuHQDeC8AmafL4ujAazdw=3D=3D')"><IMG=20
+style=3D"text-decoration: none;" =
+alt=3D"=E6=94=B6=E8=97=8F=E4=BB=A3=E7=A0=81" =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fimages%2Ficon_star.png&amp;restype=3D3&amp;from=3Dderive&amp;pi=3D"><=
+/A>=20
+</DIV></DIV>
+<OL style=3D"padding: 2px 0px; border: 1px solid rgb(209, 215, 220); =
+border-image: none; color: rgb(43, 145, 175); list-style-type: =
+decimal;">
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);"><SPAN>[mysqld]&nbsp;&nbsp;</SPAN></SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">#=E8=AE=BE=E7=BD=AE=E5=AD=97=E7=AC=A6=E9=9B=86=E4=B8=BAutf8&nbsp;&nb=
+sp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">default-character-set&nbsp;=3D&nbsp;utf8&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">basedir&nbsp;=3D&nbsp;C:/mysql-<SPAN=20
+  style=3D"color: rgb(192, 0, 0);">5.5</SPAN><SPAN>.</SPAN><SPAN =
+style=3D"color: rgb(192, 0, =
+0);">10</SPAN><SPAN>-win32&nbsp;&nbsp;</SPAN></SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">datadir&nbsp;=3D&nbsp;C:/mysql-<SPAN=20
+  style=3D"color: rgb(192, 0, 0);">5.5</SPAN><SPAN>.</SPAN><SPAN =
+style=3D"color: rgb(192, 0, =
+0);">10</SPAN><SPAN>-win32/data&nbsp;&nbsp;</SPAN></SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, 0);">&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">[client]&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">#=E8=AE=BE=E7=BD=AE=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=AD=97=E7=AC=A6=E9=9B=
+=86&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">default-character-set&nbsp;=3D&nbsp;utf8&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, 0);">&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">[WinMySQLadmin]&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">Server&nbsp;=3D&nbsp;C:/mysql-<SPAN=20
+  style=3D"color: rgb(192, 0, 0);">5.5</SPAN><SPAN>.</SPAN><SPAN =
+style=3D"color: rgb(192, 0, =
+0);">10</SPAN><SPAN>-win32/bin/mysqld.exe&nbsp;&nbsp;</SPAN></SPAN></LI><=
+/OL></DIV><BR><BR>=E6=89=93=E5=BC=80=E5=91=BD=E4=BB=A4=E6=8F=90=E7=A4=BA=E7=
+=AC=A6=EF=BC=8C=E8=BF=9B=E5=85=A5<STRONG=20
+style=3D"font-weight: =
+700;">%MYSQL_HOME%/bin</STRONG>=E7=9B=AE=E5=BD=95=EF=BC=8C=E6=89=A7=E8=A1=
+=8C=E5=91=BD=E4=BB=A4=EF=BC=9A<STRONG style=3D"font-weight: 700;">mysqld =
+
+-install</STRONG>=E5=B0=86mysql=E5=AE=89=E8=A3=85=E5=88=B0windows=E7=9A=84=
+=E6=9C=8D=E5=8A=A1=E3=80=82=E6=89=A7=E8=A1=8C=E6=88=90=E5=8A=9F=E5=90=8E=E4=
+=BC=9A=E6=8F=90=E7=A4=BA=EF=BC=9A<STRONG=20
+style=3D"font-weight: 700;"><SPAN=20
+style=3D"-ms-word-break: =
+break-all;">C:\mysql-5.5.10-win32\bin&gt;Service=20
+successfully =
+installed.</SPAN></STRONG><BR>=E5=A6=82=E6=9E=9C=E6=83=B3=E8=A6=81=E5=8D=B8=
+=E8=BD=BD=E6=9C=8D=E5=8A=A1=E6=89=A7=E8=A1=8C=E5=91=BD=E4=BB=A4=EF=BC=9A<=
+STRONG style=3D"font-weight: 700;">mysqld=20
+-remove</STRONG>=E3=80=82 =
+<BR><BR>=E7=84=B6=E5=90=8E=E5=9C=A8=E5=91=BD=E4=BB=A4=E6=8F=90=E7=A4=BA=E7=
+=AC=A6=E4=B8=8B=E6=89=A7=E8=A1=8C=EF=BC=9A<STRONG style=3D"font-weight: =
+700;">net=20
+start =
+mysql</STRONG>=E5=B0=B1=E8=83=BD=E5=90=AF=E5=8A=A8mysql=E4=BA=86=EF=BC=8C=
+=E5=81=9C=E6=AD=A2=E6=9C=8D=E5=8A=A1=E8=BE=93=E5=85=A5=E5=91=BD=E4=BB=A4=EF=
+=BC=9A<STRONG style=3D"font-weight: 700;">net=20
+stop =
+mysql</STRONG>=E3=80=82=E5=A6=82=E6=9E=9C=E6=83=B3=E8=AE=BE=E7=BD=AEmysql=
+=E6=98=AF=E5=90=A6=E8=87=AA=E5=8A=A8=E5=90=AF=E5=8A=A8=EF=BC=8C=E5=8F=AF=E4=
+=BB=A5=E5=9C=A8=E5=BC=80=E5=A7=8B=E8=8F=9C=E5=8D=95-&gt;=E8=BF=90=E8=A1=8C=
+=E4=B8=AD=E8=BE=93=E5=85=A5<STRONG style=3D"font-weight: =
+700;">service.msc</STRONG>=E6=89=93=E5=BC=80=E6=9C=8D=E5=8A=A1=E7=AE=A1=E7=
+=90=86=E8=BF=9B=E8=A1=8C=E8=AE=BE=E7=BD=AE=E3=80=82=20
+<BR><BR>=E7=AC=AC=E4=B8=80=E6=AC=A1=E7=99=BB=E5=BD=95=E7=9A=84=E6=97=B6=E5=
+=80=99=E8=BE=93=E5=85=A5=EF=BC=9A <BR><BR><STRONG style=3D"font-weight: =
+700;"><SPAN style=3D"-ms-word-break: =
+break-all;">C:\Users\Administrator&gt;mysql=20
+-u =
+root</SPAN></STRONG><BR><BR>=E4=BF=AE=E6=94=B9=E5=AF=86=E7=A0=81=EF=BC=9A=
+ <BR><BR><STRONG class=3D"shenma_breadcrumb"=20
+style=3D"font-weight: 700;">mysql&gt; update mysql.user set=20
+password=3DPASSWORD('root') where User=3D'root' <BR>mysql&gt; flush=20
+privileges</STRONG><BR><BR>=E4=B8=8D=E8=BF=87=E6=88=91=E5=9C=A8=E5=AE=89=E8=
+=A3=85=E8=BF=87=E7=A8=8B=E4=B8=AD=E8=BF=98=E6=98=AF=E5=87=BA=E4=BA=86=E7=82=
+=B9=E5=B0=8F=E9=97=AE=E9=A2=98=EF=BC=8C=E5=90=AF=E5=8A=A8mysql=E7=9A=84=E6=
+=97=B6=E5=80=99=E6=8A=A5=E9=94=99=EF=BC=9A <BR><STRONG =
+style=3D"font-weight: =
+700;"><BR>=E7=B3=BB=E7=BB=9F=E5=87=BA=E9=94=99=E3=80=82=20
+<BR><BR>=E5=8F=91=E7=94=9F=E7=B3=BB=E7=BB=9F=E9=94=99=E8=AF=AF =
+1067=E3=80=82 =
+<BR><BR>=E8=BF=9B=E7=A8=8B=E6=84=8F=E5=A4=96=E7=BB=88=E6=AD=A2=E3=80=82</=
+STRONG><BR><BR>=E6=89=93=E5=BC=80<STRONG style=3D"font-weight: =
+700;">%MYSQL_HOME%/data</STRONG>=E7=9B=AE=E5=BD=95=E4=B8=8B=E7=9A=84<STRO=
+NG=20
+style=3D"font-weight: =
+700;">=E7=94=A8=E6=88=B7=E5=90=8D.err</STRONG>=E6=96=87=E4=BB=B6=EF=BC=8C=
+mysql=E7=9A=84=E9=94=99=E8=AF=AF=E6=97=A5=E5=BF=97=E5=B0=B1=E8=AE=B0=E5=BD=
+=95=E5=9C=A8=E8=BF=99=E4=B8=AA=E6=96=87=E4=BB=B6=E4=B8=AD=E3=80=82=E5=9C=A8=
+=E9=87=8C=E9=9D=A2=E5=8F=91=E7=8E=B0=E8=BF=99=E6=A0=B7=E4=B8=80=E5=8F=A5=E8=
+=AF=9D=EF=BC=9A=20
+<BR><BR><STRONG style=3D"font-weight: 700;"><SPAN =
+style=3D"-ms-word-break: break-all;">110327&nbsp;=20
+0:12:02 [ERROR] MySQL: unknown variable=20
+'default-character-set=3Dutf8'</SPAN></STRONG><BR><BR><SPAN =
+style=3D"-ms-word-break: =
+break-all;">=E6=84=9F=E8=A7=89=E5=BE=88=E5=A5=87=E6=80=AA=EF=BC=8C=E4=BB=A5=
+=E5=89=8D=E4=B8=80=E7=9B=B4=E9=83=BD=E8=BF=99=E6=A0=B7=E5=AE=89=E8=A3=85=E7=
+=9A=84=E3=80=82=E6=9C=80=E5=90=8E=E5=9C=A8mysql=E7=9A=84=E5=AE=98=E7=BD=91=
+=E4=B8=8A=E6=89=BE=E5=88=B0=E4=B8=80=E7=AF=87=E4=B8=AD=E5=9B=BDDBA=E7=9A=84=
+=E6=B1=82=E5=8A=A9=E4=BF=A1=E6=81=AF=EF=BC=8C=E5=8E=9F=E6=9D=A5=E8=BF=99=E6=
+=98=AF=E6=96=B0=E7=89=88=E6=9C=AC=E7=9A=84=E4=B8=80=E4=B8=AAbug=EF=BC=8C=E4=
+=B8=8D=E6=94=AF=E6=8C=81=E5=9C=A8my.ini=E4=B8=AD=E7=9B=B4=E6=8E=A5=E8=AE=BE=
+=E7=BD=AE=E5=AD=97=E7=AC=A6=E9=9B=86=E4=B8=BAutf8=E3=80=82=E8=A7=A3=E5=86=
+=B3=E5=8A=9E=E6=B3=95=E6=98=AF=EF=BC=9A=E5=9C=A8default-character-set=3Du=
+tf8=E5=89=8D=E9=9D=A2=E5=8A=A0=E4=B8=8A</SPAN><STRONG=20
+style=3D"font-weight: 700;">loose-</STRONG>=E5=8D=B3=EF=BC=9A <BR>
+<DIV class=3D" sm_sf" style=3D"padding: 1px 5px 1px 1px;">
+<DIV>
+<DIV style=3D"padding: 3px; font-weight: =
+700;">Properties=E4=BB=A3=E7=A0=81 &nbsp;<A style=3D"color: rgb(16, 138, =
+198); text-decoration: underline;"=20
+onclick=3D"uc_click(this,'bTkwANJJGhy2zBvv5KIZerVY6refreeqaoh1UDHl0/AcRg0=
+aww/85FaP3rQ5eZztngyifg=3D=3D')"><IMG=20
+style=3D"text-decoration: none;" =
+alt=3D"=E6=94=B6=E8=97=8F=E4=BB=A3=E7=A0=81" =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fimages%2Ficon_star.png&amp;restype=3D3&amp;from=3Dderive&amp;pi=3D"><=
+/A>=20
+</DIV></DIV>
+<OL style=3D"padding: 2px 0px; border: 1px solid rgb(209, 215, 220); =
+border-image: none; color: rgb(43, 145, 175); list-style-type: =
+decimal;">
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);"><SPAN>[mysqld]&nbsp;&nbsp;</SPAN></SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">#=E8=AE=BE=E7=BD=AE=E5=AD=97=E7=AC=A6=E9=9B=86=E4=B8=BAutf8&nbsp;&nb=
+sp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, 0);"><SPAN=20
+  style=3D"-ms-word-break: =
+break-all;">loose-default-character-set&nbsp;=3D&nbsp;utf8&nbsp;&nbsp;</S=
+PAN></SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, 0);">&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">[client]&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, =
+0);">#=E8=AE=BE=E7=BD=AE=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=AD=97=E7=AC=A6=E9=9B=
+=86&nbsp;&nbsp;</SPAN></LI>
+  <LI class=3D"sm_lineblock" style=3D"background: rgb(250, 250, =
+250);"><SPAN style=3D"color: rgb(0, 0, 0);"><SPAN=20
+  style=3D"-ms-word-break: =
+break-all;">loose-default-character-set&nbsp;=3D&nbsp;utf8&nbsp;&nbsp;</S=
+PAN></SPAN></LI></OL></DIV><BR><BR>=E5=90=AF=E5=8A=A8=E6=9E=9C=E7=84=B6=E4=
+=B8=8D=E5=86=8D=E6=8A=A5=E9=94=99=E4=BA=86=E3=80=82=E3=80=82=E3=80=82=E9=82=
+=A3=E4=BB=BD=E6=B1=82=E5=8A=A9=E4=BF=A1=E6=81=AF=E7=9A=84=E5=8E=9F=E6=96=87=
+=E5=9C=B0=E5=9D=80=EF=BC=9A=20
+<BR><A style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fforums.mysql.com%2Fre=
+ad.php%3F103%2C189835%2C237318&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2=
+&amp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60"><SPA=
+N=20
+style=3D"-ms-word-break: =
+break-all;">http://forums.mysql.com/read.php?103,189835,237318</SPAN></A>=
+<BR><BR><STRONG=20
+style=3D"font-weight: 700;"><SPAN=20
+style=3D"white-space: =
+nowrap;">=E5=90=8E=E8=AE=B0=EF=BC=9A</SPAN></STRONG><BR><BR>=E8=99=BD=E7=84=
+=B6=E4=BD=BF=E7=94=A8=E4=B8=8A=E9=9D=A2=E7=9A=84=E6=96=B9=E5=BC=8F=E5=8A=A0=
+=E5=85=A5loose-=E4=BB=A5=E5=90=8E=EF=BC=8Cmysql=E5=90=AF=E5=8A=A8=E4=B8=8D=
+=E5=86=8D=E6=8A=A5=E9=94=99=E4=BA=86=E3=80=82=E4=BD=86=E6=98=AF=E5=9C=A8=E6=
+=8F=92=E5=85=A5=E6=95=B0=E6=8D=AE=E6=97=B6=E4=BE=9D=E7=84=B6=E5=87=BA=E7=8E=
+=B0=E4=BA=86=E4=B9=B1=E7=A0=81=E9=97=AE=E9=A2=98=EF=BC=8C=E7=BB=99=E6=88=91=
+=E9=80=A0=E6=88=90=E4=BA=86=E4=B8=8D=E5=B0=8F=E7=9A=84=E9=BA=BB=E7=83=A6=E3=
+=80=82=20
+<BR><STRONG style=3D"font-weight: 700;">mysql&gt; show variables like=20
+'%char%';</STRONG><BR>=E9=80=9A=E8=BF=87=E4=BB=A5=E4=B8=8A=E5=91=BD=E4=BB=
+=A4=E6=9F=A5=E7=9C=8B=E5=AD=97=E7=AC=A6=E9=9B=86=E7=BC=96=E7=A0=81=EF=BC=8C=
+=E5=BE=97=E5=88=B0=E5=A6=82=E4=B8=8B=E7=BB=93=E6=9E=9C=EF=BC=9A =
+<BR><SPAN style=3D"-ms-word-break: =
+break-all;">+--------------------------+---------------------------------=
+------+=20
+</SPAN><BR>|=20
+Variable_name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;=20
+|=20
+Value&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR><SPAN=20
+style=3D"-ms-word-break: =
+break-all;">+--------------------------+---------------------------------=
+------+=20
+</SPAN><BR>| character_set_client&nbsp;&nbsp;&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_connection |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_database&nbsp;&nbsp; |=20
+latin1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_filesystem |=20
+binary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_results&nbsp;&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_server&nbsp;&nbsp;&nbsp;&nbsp; |=20
+latin1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_system&nbsp;&nbsp;&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR><SPAN style=3D"-ms-word-break: break-all;">|=20
+character_sets_dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |=20
+C:\mysql-5.5.10-win32\share\charsets\ | </SPAN><BR><SPAN =
+style=3D"-ms-word-break: =
+break-all;">+--------------------------+---------------------------------=
+------+=20
+</SPAN><BR>=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=87=BAcharacter_set_database =
+=EF=BC=8Ccharacter_set_server =
+=E7=9A=84=E7=BC=96=E7=A0=81=E8=BF=98=E6=98=AF=E9=BB=98=E8=AE=A4=E7=9A=84l=
+atin1=E3=80=82=20
+<BR><BR><SPAN=20
+style=3D"color: rgb(255, 0, =
+0);">=E5=9C=A8[mysqld]=E9=85=8D=E7=BD=AE=E9=80=89=E9=A1=B9=E4=B8=8B=E6=B7=
+=BB=E5=8A=A0character-set-server =3D=20
+utf8</SPAN>=EF=BC=8C=E9=87=8D=E5=90=AF=E6=9C=8D=E5=8A=A1=E8=BF=9B=E5=85=A5=
+mysql=E5=86=8D=E6=AC=A1=E6=9F=A5=E7=9C=8B=EF=BC=9A <BR><SPAN=20
+style=3D"-ms-word-break: =
+break-all;">+--------------------------+---------------------------------=
+------+=20
+</SPAN><BR>|=20
+Variable_name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;=20
+|=20
+Value&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR><SPAN=20
+style=3D"-ms-word-break: =
+break-all;">+--------------------------+---------------------------------=
+------+=20
+</SPAN><BR>| character_set_client&nbsp;&nbsp;&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_connection |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_database&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_filesystem |=20
+binary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_results&nbsp;&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_server&nbsp;&nbsp;&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR>| character_set_system&nbsp;&nbsp;&nbsp;&nbsp; |=20
+utf8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+| <BR><SPAN style=3D"-ms-word-break: break-all;">|=20
+character_sets_dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |=20
+C:\mysql-5.5.10-win32\share\charsets\ | </SPAN><BR><SPAN =
+style=3D"-ms-word-break: =
+break-all;">+--------------------------+---------------------------------=
+------+=20
+</SPAN><BR><BR>=E9=97=AE=E9=A2=98=E5=AE=8C=E7=BE=8E=E8=A7=A3=E5=86=B3 =
+<BR></DIV>
+<DIV class=3D"sm_lineblock">
+<DIV><A style=3D"color: rgb(16, 138, 198);" onclick=3D"QueryClick(href); =
+return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F975050&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+add_param=3D"link_type=3D260">=E5=BC=BA=E5=88=B6Eclipse=E4=BD=BF=E7=94=A8=
+JDK=E8=BF=90=E8=A1=8C</A></DIV>
+<DIV style=3D"clear: both;"></DIV></DIV>
+<DIV class=3D"sm_lineblock">
+<UL>
+  <LI style=3D"color: rgb(16, 138, 198);">2011-03-27 00:35</LI>
+  <LI style=3D"color: rgb(16, 138, 198); float: =
+left;">=E6=B5=8F=E8=A7=88 20473</LI>
+  <LI style=3D"color: rgb(16, 138, 198); float: left;"><A =
+style=3D"color: rgb(16, 138, 198);"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;hid=3Da9=
+33c48194855b6029d11012ee5843c3&amp;pos=3D3&amp;cid=3D9&amp;time=3D1453437=
+613018&amp;from=3Dclick&amp;restype=3D1&amp;pagetype=3D0000004000000402&a=
+mp;bu=3Dnews_natural&amp;query=3Dmysql%E8%A7%A3%E5%8E%8B%E7%89%88%E5%AE%8=
+9%E8%A3%85&amp;mode=3D&amp;uc_param_str=3Ddnntnwvepffrgibijbprsvpi#commen=
+ts"=20
+  keep-url=3D"">=E8=AF=84=E8=AE=BA(5)</A></LI>
+  <LI style=3D"color: rgb(16, 138, 198); float: left;"><SPAN =
+style=3D"white-space: nowrap;">=E5=88=86=E7=B1=BB:</SPAN><A=20
+  style=3D"color: rgb(16, 138, 198);" onclick=3D"QueryClick(href); =
+return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fblogs=
+%2Fcategory%2Fdatabase&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;res=
+type=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E6=95=B0=E6=
+=8D=AE=E5=BA=93</A>=20
+  </LI>
+  <LI style=3D"color: rgb(16, 138, 198); float: left;"><A =
+style=3D"color: rgb(16, 138, 198);"=20
+  onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fwiki%=
+2Fblog%2F976381&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+  =
+add_param=3D"link_type=3D260">=E7=9B=B8=E5=85=B3=E6=8E=A8=E8=8D=90</A></L=
+I>
+  <DIV style=3D"clear: both;"></DIV></UL></DIV>
+<DIV style=3D"padding: 5px; width: 100%; clear: both; border-top-color: =
+rgb(16, 138, 198); border-top-width: 1px; border-top-style: solid; =
+box-sizing: border-box;">
+<H5 class=3D" sm_sf" style=3D"margin: 0px 0px 3px; font-weight: =
+700;">=E8=AF=84=E8=AE=BA</H5><A=20
+name=3D"comments" id=3D"comments" style=3D"color: rgb(16, 138, 198); =
+text-decoration: underline;"></A>
+<DIV class=3D"sm_block" id=3D"bc2363132">=20
+<DIV style=3D"background: rgb(239, 250, 255); padding: 3px;">5 =E6=A5=BC =
+<A style=3D"color: rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fdong686.iteye.com&amp=
+;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderive=
+&amp;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250">dong686</A>2014-11-18&nbsp;&nbsp; </DIV>
+<DIV style=3D"margin: 0px 0px 5px; padding: =
+3px;">=E6=84=9F=E8=B0=A2=EF=BC=81=E5=8F=88=E5=AD=A6=E4=B9=A0=E5=88=B0=E4=BA=
+=86=E5=BE=88=E5=A4=9A=EF=BC=81</DIV></DIV>
+<DIV class=3D"sm_block" id=3D"bc2345127">
+<DIV style=3D"background: rgb(239, 250, 255); padding: 3px;">4 =E6=A5=BC =
+<A style=3D"color: rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fhansongxue.iteye.com&=
+amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dder=
+ive&amp;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250">Hansongxue</A>2014-04-13&nbsp;&nbsp; =
+</DIV>
+<DIV>=E8=B0=A2=E8=B0=A2=EF=BC=8C=E5=88=86=E6=9E=90=E5=BE=88=E5=A4=9A=E5=88=
+=B0=E4=BD=8D=EF=BC=8C=E6=88=91=E8=BF=98=E9=81=87=E5=88=B0=E4=B8=80=E4=B8=AA=
+=E9=97=AE=E9=A2=98=EF=BC=8CInstall/Remove of the Service=20
+Denied!,=E5=B0=B1=E6=98=AF=E6=B2=A1=E6=9C=89=E4=BB=A5=E7=AE=A1=E7=90=86=E5=
+=91=98=E7=9A=84=E4=BB=80=E4=B9=88=E8=BF=90=E8=A1=8C=EF=BC=8C=E5=9C=A8=E8=8F=
+=9C=E5=8D=95=E6=A0=8F=E4=B8=8A=E8=BE=93=E5=85=A5cmd,=E7=84=B6=E5=90=8E=E5=
+=9C=A8cmd=E4=B8=8A=E5=8F=B3=E5=87=BB=EF=BC=8C=E9=80=89=E6=8B=A9=E2=80=9C=E4=
+=BB=A5=E7=AE=A1=E7=90=86=E5=91=98=E7=9A=84=E8=BA=AB=E4=BB=BD=E8=BF=90=E8=A1=
+=8C=E2=80=9D=EF=BC=8C=E7=84=B6=E5=90=8E=E5=9C=A8=E8=BF=9B=E8=A1=8C=E4=B8=8A=
+=E9=9D=A2=E7=9A=84=E5=AE=89=E8=A3=85=EF=BC=8C=E5=AE=89=E8=A3=85=E6=88=90=E5=
+=8A=9F=EF=BC=8C=E9=97=AE=E9=A2=98=E8=A7=A3=E5=86=B3=E4=BA=86=E3=80=82</DI=
+V></DIV>
+<DIV class=3D"sm_block" id=3D"bc2344625">
+<DIV style=3D"background: rgb(239, 250, 255); padding: 3px;">3 =E6=A5=BC =
+<A style=3D"color: rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmh245500.iteye.com&am=
+p;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderiv=
+e&amp;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250">mh245500</A>2014-04-08&nbsp;&nbsp; </DIV>
+<DIV style=3D"margin: 0px 0px 5px; padding: =
+3px;">=E8=B0=A2=E8=B0=A2=EF=BC=8C=E5=BE=88=E7=BB=99=E5=8A=9B=EF=BC=81<IMG=
+ =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fimages%2Fsmiles%2Ficon_biggrin.gif&amp;restype=3D3&amp;from=3Dderive&=
+amp;pi=3D">=20
+</DIV></DIV>
+<DIV class=3D"sm_block" id=3D"bc2341216">
+<DIV style=3D"background: rgb(239, 250, 255); padding: 3px;">2 =E6=A5=BC =
+<A style=3D"color: rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fadermon-1224.iteye.co=
+m&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dd=
+erive&amp;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250">adermon_1224</A>2014-03-05&nbsp;&nbsp; =
+</DIV>
+<DIV style=3D"margin: 0px 0px 5px; padding: =
+3px;">=E5=B0=91=E8=B5=B0=E4=BA=86=E4=B8=8D=E5=B0=91=E5=86=A4=E6=9E=89=E8=B7=
+=AF<IMG =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fimages%2Fsmiles%2Ficon_idea.gif&amp;restype=3D3&amp;from=3Dderive&amp=
+;pi=3D">=20
+</DIV></DIV>
+<DIV class=3D"sm_block" id=3D"bc2340796">
+<DIV style=3D"background: rgb(239, 250, 255); padding: 3px;">1 =E6=A5=BC =
+<A style=3D"color: rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fouyangshixiong.iteye.=
+com&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3D=
+derive&amp;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250">ouyangshixiong</A>2014-02-27&nbsp;&nbsp; =
+</DIV>
+<DIV=20
+style=3D"margin: 0px 0px 5px; padding: =
+3px;">=E9=94=99=E8=AF=AF=E7=9A=84=E8=BF=98=E5=86=99=E8=BF=99=E4=B9=88=E5=A4=
+=9A=EF=BC=8C=E7=9B=B4=E6=8E=A5=E5=86=99=E4=B8=AA=E6=95=B4=E4=B8=AA=E7=9A=84=
+=E6=92=92</DIV></DIV></DIV>
+<DIV style=3D"padding: 5px; width: 100%; clear: both; border-top-color: =
+rgb(16, 138, 198); border-top-width: 1px; border-top-style: solid; =
+box-sizing: border-box;">
+<H5 class=3D" sm_sf" style=3D"margin: 0px 0px 3px; font-weight: =
+700;">=E5=8F=91=E8=A1=A8=E8=AF=84=E8=AE=BA</H5>
+<P style=3D"margin: 5px 0px 0px; text-align: center;"><A style=3D"color: =
+rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Flogin&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;=
+from=3Dderive&amp;depth=3D2&amp;link_type=3D260"=20
+add_param=3D"link_type=3D260"><IMG style=3D"text-decoration: none;" =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fimages%2Flogin_icon.png&amp;restype=3D3&amp;from=3Dderive&amp;pi=3D">=
+</A><A=20
+style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"QueryClick(href); return false;"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Flogin&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;=
+from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E6=82=A8=E8=BF=98=E6=B2=A1=
+=E6=9C=89=E7=99=BB=E5=BD=95,=E8=AF=B7=E6=82=A8=E7=99=BB=E5=BD=95=E5=90=8E=
+=E5=86=8D=E5=8F=91=E8=A1=A8=E8=AF=84=E8=AE=BA=20
+</A></P></DIV>
+<DIV style=3D"clear: both;"></DIV></DIV></DIV>
+<DIV class=3D"hotword_html"></DIV>
+<DIV class=3D"shenma_maintext" id=3D"local" style=3D"background: =
+rgb(255, 255, 255); padding: 5px 3px 0px; border: 1px solid rgb(16, 138, =
+198); border-image: none; -ms-overflow-y: hidden;">
+<DIV></DIV>
+<DIV id=3D"blog_owner" style=3D"padding: 0px 5px; text-align: center;">
+<DIV id=3D"blog_owner_name"=20
+style=3D"padding: 5px 0px 0px; font-weight: =
+700;">michael_wong</DIV></DIV>
+<DIV id=3D"blog_actions" style=3D"margin: 0px 0px 5px;">
+<UL style=3D"margin: 0px 0px 5px; padding: 0px; list-style-type: disc;">
+  <LI style=3D"margin: 0px 0px 3px 5px; list-style-type: =
+none;">=E6=B5=8F=E8=A7=88: 26937 =E6=AC=A1</LI>
+  <LI style=3D"margin: 0px 0px 3px 5px; list-style-type: =
+none;">=E6=80=A7=E5=88=AB: <IMG alt=3D"Icon_minigender_1"=20
+  =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fimage=
+s%2Ficon_minigender_1.gif%3F1448702469&amp;restype=3D3&amp;from=3Dderive&=
+amp;pi=3D">=20
+  </LI>
+  <LI style=3D"margin: 0px 0px 3px 5px; list-style-type: =
+none;">=E6=9D=A5=E8=87=AA: =E6=88=90=E9=83=BD</LI>
+  <LI style=3D"margin: 0px 0px 3px 5px; list-style-type: none;"><IMG =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fimages%2Fstatus%2Foffline.gif&amp;restype=3D3&amp;from=3Dderive&amp;p=
+i=3D"></LI></UL></DIV>
+<DIV id=3D"user_visits">
+<H5 class=3D" sm_sf" style=3D"margin: 0px 0px 3px 5px; font-weight: =
+700;">=E6=9C=80=E8=BF=91=E8=AE=BF=E5=AE=A2 <SPAN=20
+class=3D" sm_sf" style=3D"padding: 0px 0px 0px 5px; font-weight: =
+400;"><A style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fuser_visits&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;res=
+type=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E6=9B=B4=E5=
+=A4=9A=E8=AE=BF=E5=AE=A2&gt;&gt;</A></SPAN>=20
+</H5>
+<DIV style=3D"margin: 5px 0px 0px 5px; float: left; -ms-overflow-y: =
+hidden;">
+<DIV style=3D"padding: 2px 5px 5px 2px; float: left;"><A style=3D"color: =
+rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fakun.iteye.com&amp;ui=
+d=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderive&am=
+p;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250"><IMG width=3D"48" style=3D"width: 48px; =
+text-decoration: none;"=20
+alt=3D"akun=E7=9A=84=E5=8D=9A=E5=AE=A2" =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fimage=
+s%2Fuser-logo-thumb.gif%3F1448702469&amp;restype=3D3&amp;from=3Dderive&am=
+p;pi=3D"></A></DIV>
+<DIV style=3D"-ms-overflow-y: hidden;"><A style=3D"color: rgb(16, 138, =
+198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fakun.iteye.com&amp;ui=
+d=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderive&am=
+p;depth=3D2&amp;link_type=3D60">akun</A></DIV>
+<DIV style=3D"clear: both;"></DIV></DIV>
+<DIV style=3D"margin: 5px 0px 0px 5px; float: left; -ms-overflow-y: =
+hidden;">
+<DIV style=3D"padding: 2px 5px 5px 2px; float: left;"><A style=3D"color: =
+rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fhit4110.iteye.com&amp=
+;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderive=
+&amp;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250"><IMG width=3D"48" style=3D"width: 48px; =
+text-decoration: none;"=20
+alt=3D"hit4110=E7=9A=84=E5=8D=9A=E5=AE=A2" =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fimage=
+s%2Fuser-logo-thumb.gif%3F1448702469&amp;restype=3D3&amp;from=3Dderive&am=
+p;pi=3D"></A></DIV>
+<DIV style=3D"-ms-overflow-y: hidden;"><A style=3D"color: rgb(16, 138, =
+198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fhit4110.iteye.com&amp=
+;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderive=
+&amp;depth=3D2&amp;link_type=3D60">hit4110</A></DIV>
+<DIV style=3D"clear: both;"></DIV></DIV>
+<DIV style=3D"margin: 5px 0px 0px 5px; float: left; -ms-overflow-y: =
+hidden;">
+<DIV style=3D"padding: 2px 5px 5px 2px; float: left;"><A style=3D"color: =
+rgb(16, 138, 198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fminghui2009.iteye.com=
+&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dde=
+rive&amp;depth=3D2&amp;link_type=3D250"=20
+add_param=3D"link_type=3D250"><IMG width=3D"48" style=3D"width: 48px; =
+text-decoration: none;"=20
+alt=3D"minghui2009=E7=9A=84=E5=8D=9A=E5=AE=A2" =
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fwww.iteye.com%2Fimage=
+s%2Fuser-logo-thumb.gif%3F1448702469&amp;restype=3D3&amp;from=3Dderive&am=
+p;pi=3D"></A></DIV>
+<DIV style=3D"-ms-overflow-y: hidden;"><A style=3D"color: rgb(16, 138, =
+198); text-decoration: underline;"=20
+onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fminghui2009.iteye.com=
+&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dde=
+rive&amp;depth=3D2&amp;link_type=3D60">minghui2009</A></DIV>
+<DIV style=3D"clear: both;"></DIV></DIV>
+<DIV style=3D"clear: both;"></DIV></DIV>
+<DIV class=3D"sm_link_pack">
+<DIV class=3D"sm_link" id=3D"blog_menu">
+<H5 class=3D" sm_sf">=E6=96=87=E7=AB=A0=E5=88=86=E7=B1=BB</H5>
+<UL>
+  <LI><A style=3D"color: rgb(16, 138, 198);" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2F&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3D=
+derive&amp;depth=3D2&amp;link_type=3D60">=E5=85=A8=E9=83=A8=E5=8D=9A=E5=AE=
+=A2=20
+  (4)</A></LI></UL></DIV></DIV>
+<DIV class=3D"sm_lineblock" id=3D"month_blogs">
+<H5 class=3D" sm_sf">=E7=A4=BE=E5=8C=BA=E7=89=88=E5=9D=97</H5>
+<UL>
+  <DIV class=3D"sm_link_pack">
+  <LI class=3D"sm_slink"><A style=3D"color: rgb(16, 138, 198);" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fnews&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E6=88=91=E7=9A=84=E8=
+=B5=84=E8=AE=AF</A>(0)</LI>
+  <LI class=3D"sm_slink"><A style=3D"color: rgb(16, 138, 198);" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fpost&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E6=88=91=E7=9A=84=E8=
+=AE=BA=E5=9D=9B</A>(0)=20
+  </LI>
+  <LI class=3D"sm_slink"><A style=3D"color: rgb(16, 138, 198);" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fanswered_problems&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&a=
+mp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E6=88=
+=91=E7=9A=84=E9=97=AE=E7=AD=94</A>(1)</LI></DIV></UL></DIV>
+<DIV class=3D"sm_lineblock" id=3D"month_blogs">
+<H5 class=3D" sm_sf">=E5=AD=98=E6=A1=A3=E5=88=86=E7=B1=BB</H5>
+<UL>
+  <LI><A style=3D"color: rgb(16, 138, 198);" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fmonthblog%2F2011-03&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2=
+&amp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">2011=
+-03</A>(4)</LI>
+  <LI><A style=3D"color: rgb(16, 138, 198);" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2Fmonthblog_more&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;=
+restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E6=9B=B4=
+=E5=A4=9A=E5=AD=98=E6=A1=A3...</A></LI></UL></DIV>
+<DIV id=3D"guest_books">
+<H5 class=3D" sm_sf" style=3D"margin: 0px 0px 3px 5px; font-weight: =
+700;">=E6=9C=80=E6=96=B0=E8=AF=84=E8=AE=BA</H5>
+<UL style=3D"padding: 0px; list-style-type: disc;">
+  <LI class=3D"sm_block" style=3D"padding: 5px 0px; border-bottom-color: =
+rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: =
+dotted; list-style-type: none;"><A=20
+  style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fdong686.iteye.com&amp=
+;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderive=
+&amp;depth=3D2&amp;link_type=3D60">dong686</A>=EF=BC=9A=20
+  =
+=E6=84=9F=E8=B0=A2=EF=BC=81=E5=8F=88=E5=AD=A6=E4=B9=A0=E5=88=B0=E4=BA=86=E5=
+=BE=88=E5=A4=9A=EF=BC=81<BR><A style=3D"color: rgb(16, 138, 198); =
+text-decoration: underline;"=20
+  onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381%23bc2363132&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&=
+amp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">Windo=
+ws=E4=B8=8B=E5=AE=89=E8=A3=85MySQL=E8=A7=A3=E5=8E=8B=E7=89=88</A>=20
+  </LI>
+  <LI class=3D"sm_block" style=3D"padding: 5px 0px; border-bottom-color: =
+rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: =
+dotted; list-style-type: none;"><A=20
+  style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fhansongxue.iteye.com&=
+amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dder=
+ive&amp;depth=3D2&amp;link_type=3D60">Hansongxue</A>=EF=BC=9A=20
+  =
+=E8=B0=A2=E8=B0=A2=EF=BC=8C=E5=88=86=E6=9E=90=E5=BE=88=E5=A4=9A=E5=88=B0=E4=
+=BD=8D=EF=BC=8C=E6=88=91=E8=BF=98=E9=81=87=E5=88=B0=E4=B8=80=E4=B8=AA=E9=97=
+=AE=E9=A2=98=EF=BC=8CInstall/Remo ...<BR><A style=3D"color: rgb(16, 138, =
+198); text-decoration: underline;"=20
+  onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381%23bc2345127&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&=
+amp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">Windo=
+ws=E4=B8=8B=E5=AE=89=E8=A3=85MySQL=E8=A7=A3=E5=8E=8B=E7=89=88</A>=20
+  </LI>
+  <LI class=3D"sm_block" style=3D"padding: 5px 0px; border-bottom-color: =
+rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: =
+dotted; list-style-type: none;"><A=20
+  style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmh245500.iteye.com&am=
+p;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dderiv=
+e&amp;depth=3D2&amp;link_type=3D60">mh245500</A>=EF=BC=9A=20
+  =E8=B0=A2=E8=B0=A2=EF=BC=8C=E5=BE=88=E7=BB=99=E5=8A=9B=EF=BC=81<BR><A =
+style=3D"color: rgb(16, 138, 198); text-decoration: underline;"=20
+  onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381%23bc2344625&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&=
+amp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">Windo=
+ws=E4=B8=8B=E5=AE=89=E8=A3=85MySQL=E8=A7=A3=E5=8E=8B=E7=89=88</A>=20
+  </LI>
+  <LI class=3D"sm_block" style=3D"padding: 5px 0px; border-bottom-color: =
+rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: =
+dotted; list-style-type: none;"><A=20
+  style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fadermon-1224.iteye.co=
+m&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3Dd=
+erive&amp;depth=3D2&amp;link_type=3D60">adermon_1224</A>=EF=BC=9A=20
+  =
+=E5=B0=91=E8=B5=B0=E4=BA=86=E4=B8=8D=E5=B0=91=E5=86=A4=E6=9E=89=E8=B7=AF<=
+BR><A style=3D"color: rgb(16, 138, 198); text-decoration: underline;"=20
+  onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381%23bc2341216&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&=
+amp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">Windo=
+ws=E4=B8=8B=E5=AE=89=E8=A3=85MySQL=E8=A7=A3=E5=8E=8B=E7=89=88</A>=20
+  </LI>
+  <LI class=3D"sm_block" style=3D"padding: 5px 0px; border-bottom-color: =
+rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: =
+dotted; list-style-type: none;"><A=20
+  style=3D"color: rgb(16, 138, 198); text-decoration: underline;" =
+onclick=3D"QueryClick(href); return false;"=20
+  =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fouyangshixiong.iteye.=
+com&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D1&amp;from=3D=
+derive&amp;depth=3D2&amp;link_type=3D60">ouyangshixiong</A>=EF=BC=9A=20
+  =
+=E9=94=99=E8=AF=AF=E7=9A=84=E8=BF=98=E5=86=99=E8=BF=99=E4=B9=88=E5=A4=9A=EF=
+=BC=8C=E7=9B=B4=E6=8E=A5=E5=86=99=E4=B8=AA=E6=95=B4=E4=B8=AA=E7=9A=84=E6=92=
+=92<BR><A style=3D"color: rgb(16, 138, 198); text-decoration: =
+underline;"=20
+  onclick=3D"QueryClick(href); return false;" =
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381%23bc2340796&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&=
+amp;restype=3D1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">Windo=
+ws=E4=B8=8B=E5=AE=89=E8=A3=85MySQL=E8=A7=A3=E5=8E=8B=E7=89=88</A>=20
+  </LI></UL></DIV>
+<DIV></DIV></DIV>
+<DIV style=3D"clear: both;"></DIV></DIV></DIV><IMG style=3D"background: =
+rgb(255, 255, 255); color: rgb(0, 0, 0);"=20
+src=3D"http://cdn12.sm-img5.com/?src=3Dhttp%3A%2F%2Fstat.iteye.com%2F%3Fu=
+rl%3Dhttp%253A%252F%252Fmichael-wong.iteye.com%252Fblog%252F976381%26refe=
+rrer%3D%26user_id%3D&amp;restype=3D3&amp;from=3Dderive&amp;pi=3D">=20
+</DIV><!--UCSHARE_BOTTOM_BAR-bd6bf303--><FOOTER>
+<P class=3D"footlink">         <A class=3D"model_pc" =
+onclick=3D"this.href=3Dthis.href.replace('/?', '/back?')"=20
+href=3D"http://zm12.sm-img2.com/?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.co=
+m%2Fblog%2F976381&amp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;restype=3D=
+1&amp;from=3Dderive&amp;depth=3D2&amp;link_type=3D60">=E7=94=B5=E8=84=91=E7=
+=89=88</A>=20
+        <A class=3D"trans_backtop" =
+href=3D"javascript:document.body.scrollTop=3D0;"=20
+keep-url=3D"">=E5=9B=9E=E9=A1=B6=E9=83=A8</A>     </P>
+<P class=3D"footlink"><A class=3D"trans_smhome" =
+href=3D"http://m.sm.cn/?from=3Duczm"=20
+keep-url=3D"">=E7=A5=9E=E9=A9=AC=E9=A6=96=E9=A1=B5</A>         <A =
+class=3D"trans_statement" href=3D"http://zm12.sm-img2.com/announce.html" =
+
+keep-url=3D"">=E8=BD=AC=E7=A0=81=E5=A3=B0=E6=98=8E</A>         <A =
+class=3D"trans_feedback" href=3D"http://m.sm.cn/feedback"=20
+keep-url=3D"">=E7=94=A8=E6=88=B7=E5=8F=8D=E9=A6=88</A>     =
+</P></FOOTER></DIV></DIV>
+<DIV id=3D"shenma_fuchuang"></DIV>
+<SCRIPT =
+src=3D"http://zm12.sm-img2.com/gst/js/??base64.js,lazy_img.js,click.js,re=
+c_base_1.js,nav.js,tab.js?version=3D20151127" type=3D"text/javascript" =
+keep-url=3D"1"></SCRIPT>
+
+<SCRIPT>GetRefInfo("gst");</SCRIPT>
+<LINK =
+href=3D"0.css?src=3Dhttp%3A%2F%2Fmichael-wong.iteye.com%2Fblog%2F976381&a=
+mp;uid=3Dfa59a7c6a0927caa39a8e1b2d7a1fcc2&amp;hid=3D&amp;time=3D145343761=
+3.8"=20
+rel=3D"stylesheet"> </BODY></HTML>
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fmichael-wong.iteye.com%2Fimages%2Ficon_star.png&restype=3&from=derive&pi=
+
+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
+yAAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fmichael-wong.iteye.com%2Fimages%2Fsmiles%2Ficon_biggrin.gif&restype=3&from=derive&pi=
+
+R0lGODlhEwATAPQAAFUfANS/qtS/VSofVarf/6qfVf+/VapfAP/fqqpfVf/78ICAAP//VX9fVf//
+qv/fVdSfVdTfVcDcwNSfANTf/38fAMzM/6p/Vap/AP///39/VdTfqio/Vf///wAAAAAAACH5BAUU
+AB0ALAAAAAATABMAAAXYYCeOHfIIBkKuI3JFiOMIhcGKCKJkl/M4hUwmslkhIhdhgSFL8lKkB6IA
+qPRM1ErhARlJGRcAB4NgHgADskEgEjgQgsvBHYtjBFJB7sf8+RwMMSYmAgEGb4h/bwxSDw8GBhBu
+DAJ3P3xHcXguBlIaFhgNAjAnCRgWGpAFRw4YFAQUGBcLCQuvGQcnAR2dAgsZChYWFMQKCncGqx16
+cAkbxtABGhAnXW2OAg0YARvSGNSREi16jhALF8iPBbskGxMpj50pAhDsLPQoCJEQBUU3OAEKXFjn
+j0QIADs=
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fmichael-wong.iteye.com%2Fimages%2Fsmiles%2Ficon_idea.gif&restype=3&from=derive&pi=
+
+R0lGODlhEwATAPQAAKp/AKp/VaqfVdSfVdS/Vf+fVf+/Vf/fVaqfqqe2qNSfqtS/qtTfqv/fqsDc
+wNTf/////6p/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAUU
+ABEALAAAAAATABMAAAWTYCQywyKeaCoOhmCqcDQ0hBuri6EjzI0uhMbBUPKdBIbFcGC7LQYApmEp
+iC2QQkNDRxwMCK/IonDIDqdc3cAhCggD3HOamBABDgAtl7A3FAZ1MgFLfHNcAwgjcIOGOgUEgCd5
+cn0BAAVNEQqLfQMBAggICmwnUFyWnwgLDqwPKA6eAKkICQ6uNw4LCQi2RicPtzchADs=
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fmichael-wong.iteye.com%2Fimages%2Flogin_icon.png&restype=3&from=derive&pi=
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAgCAYAAAAMq2gFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
+TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ
+WaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec
+5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28A
+AgBw1S4kEsfh/4O6UCZXACCRAOAiEucLAZBSAMguVMgUAMgYALBTs2QKAJQAAGx5fEIiAKoNAOz0
+ST4FANipk9wXANiiHKkIAI0BAJkoRyQCQLsAYFWBUiwCwMIAoKxAIi4EwK4BgFm2MkcCgL0FAHaO
+WJAPQGAAgJlCLMwAIDgCAEMeE80DIEwDoDDSv+CpX3CFuEgBAMDLlc2XS9IzFLiV0Bp38vDg4iHi
+wmyxQmEXKRBmCeQinJebIxNI5wNMzgwAABr50cH+OD+Q5+bk4eZm52zv9MWi/mvwbyI+IfHf/ryM
+AgQAEE7P79pf5eXWA3DHAbB1v2upWwDaVgBo3/ldM9sJoFoK0Hr5i3k4/EAenqFQyDwdHAoLC+0l
+YqG9MOOLPv8z4W/gi372/EAe/tt68ABxmkCZrcCjg/1xYW52rlKO58sEQjFu9+cj/seFf/2OKdHi
+NLFcLBWK8ViJuFAiTcd5uVKRRCHJleIS6X8y8R+W/QmTdw0ArIZPwE62B7XLbMB+7gECiw5Y0nYA
+QH7zLYwaC5EAEGc0Mnn3AACTv/mPQCsBAM2XpOMAALzoGFyolBdMxggAAESggSqwQQcMwRSswA6c
+wR28wBcCYQZEQAwkwDwQQgbkgBwKoRiWQRlUwDrYBLWwAxqgEZrhELTBMTgN5+ASXIHrcBcGYBie
+whi8hgkEQcgIE2EhOogRYo7YIs4IF5mOBCJhSDSSgKQg6YgUUSLFyHKkAqlCapFdSCPyLXIUOY1c
+QPqQ28ggMor8irxHMZSBslED1AJ1QLmoHxqKxqBz0XQ0D12AlqJr0Rq0Hj2AtqKn0UvodXQAfYqO
+Y4DRMQ5mjNlhXIyHRWCJWBomxxZj5Vg1Vo81Yx1YN3YVG8CeYe8IJAKLgBPsCF6EEMJsgpCQR1hM
+WEOoJewjtBK6CFcJg4Qxwicik6hPtCV6EvnEeGI6sZBYRqwm7iEeIZ4lXicOE1+TSCQOyZLkTgoh
+JZAySQtJa0jbSC2kU6Q+0hBpnEwm65Btyd7kCLKArCCXkbeQD5BPkvvJw+S3FDrFiOJMCaIkUqSU
+Eko1ZT/lBKWfMkKZoKpRzame1AiqiDqfWkltoHZQL1OHqRM0dZolzZsWQ8ukLaPV0JppZ2n3aC/p
+dLoJ3YMeRZfQl9Jr6Afp5+mD9HcMDYYNg8dIYigZaxl7GacYtxkvmUymBdOXmchUMNcyG5lnmA+Y
+b1VYKvYqfBWRyhKVOpVWlX6V56pUVXNVP9V5qgtUq1UPq15WfaZGVbNQ46kJ1Bar1akdVbupNq7O
+UndSj1DPUV+jvl/9gvpjDbKGhUaghkijVGO3xhmNIRbGMmXxWELWclYD6yxrmE1iW7L57Ex2Bfsb
+di97TFNDc6pmrGaRZp3mcc0BDsax4PA52ZxKziHODc57LQMtPy2x1mqtZq1+rTfaetq+2mLtcu0W
+7eva73VwnUCdLJ31Om0693UJuja6UbqFutt1z+o+02PreekJ9cr1Dund0Uf1bfSj9Rfq79bv0R83
+MDQINpAZbDE4Y/DMkGPoa5hpuNHwhOGoEctoupHEaKPRSaMnuCbuh2fjNXgXPmasbxxirDTeZdxr
+PGFiaTLbpMSkxeS+Kc2Ua5pmutG003TMzMgs3KzYrMnsjjnVnGueYb7ZvNv8jYWlRZzFSos2i8eW
+2pZ8ywWWTZb3rJhWPlZ5VvVW16xJ1lzrLOtt1ldsUBtXmwybOpvLtqitm63Edptt3xTiFI8p0in1
+U27aMez87ArsmuwG7Tn2YfYl9m32zx3MHBId1jt0O3xydHXMdmxwvOuk4TTDqcSpw+lXZxtnoXOd
+8zUXpkuQyxKXdpcXU22niqdun3rLleUa7rrStdP1o5u7m9yt2W3U3cw9xX2r+00umxvJXcM970H0
+8PdY4nHM452nm6fC85DnL152Xlle+70eT7OcJp7WMG3I28Rb4L3Le2A6Pj1l+s7pAz7GPgKfep+H
+vqa+It89viN+1n6Zfgf8nvs7+sv9j/i/4XnyFvFOBWABwQHlAb2BGoGzA2sDHwSZBKUHNQWNBbsG
+Lww+FUIMCQ1ZH3KTb8AX8hv5YzPcZyya0RXKCJ0VWhv6MMwmTB7WEY6GzwjfEH5vpvlM6cy2CIjg
+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
+Ts5Uo85DgAAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fwww.iteye.com%2Fimages%2Ficon_minigender_1.gif%3F1448702469&restype=3&from=derive&pi=
+
+R0lGODlhCwALAPMAADFjdCt4kTKOrjikyGWarFexz2vQ8Y+kq5K4xJ/O3sDAwDFjdAAAAAAAAAAA
+AAAAACH5BAEAAAsALAAAAAALAAsAAAQ4cEmZakWTml1wRsgmEBmFCONSGReBBERVFBt5HkkBEMMg
+ZIaAQlUIAAeYnHGCGNAIgEOpKQhIMxEAOw==
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fmichael-wong.iteye.com%2Fimages%2Fstatus%2Foffline.gif&restype=3&from=derive&pi=
+
+R0lGODlhWQAaAPQAAGZmZu/v76WlpZmZmcXFxXx8fP///7W1td3d3ff394yMjK2trb29vczMzIWF
+hZmZmeXl5dbW1v///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEH
+ABIALAAAAABZABoAAAX+oCSOZGmeaKqubOu+cCzPdG3fIyIMRID/wFFjNygeIAFdcclsOp/QqFQq
+aKgEhQLzEOgmENOweEzOLkwIhQJhaAd4iIa8MRAk2vi8fs/v+/9+DWo+Iw52eWACB4sLAg4DAYCS
+k5SUbwpCDnsBRAI7DoZ3laOkowkOCCILA3wEq00NfgAGs7N8ALi4e7Z/vHq8tXoNDiJFfAkMDAQE
+DAcMu7ltttPRwNK52NXZ2XjWtHnDIp57CXQCyTsCPbfSu93fvu19wcHv09d44RKeCf39EAc8EQFV
+ZwEEf9uy9QOAMAFDhv4cLozYUKJFiw9zUdTHzx+EZgtCehqgRkDIgxH+IUJEqPHhxYsrU0p0uRBX
+RZv9ONrxR+BAyJ+eFDhQ4PMAxYwTk858uTImS4U3sW0ktm9nuSILfAoUINTQDgJPl1Zc2jSjVIov
+J+JUGVGnP5IDgI7sWkeNQ5ppY+LdizbhWr1p3faD+xMoyQIKFtiNmlQj2bFOMapN2VSp4KtbCx8e
+wEBABMpskTaGObahQpVlxZaj6qlLlwhbnS0LaPIAAte5XHfBpZv3bt8B/ALYrft3ceDBh3fRt6o4
+AgZZCURAEIGZstvFs2vfzr279+36hmlH4ErggQZIvqtfz947A1QjFHhGQL++/fv48+vfz7+//+dF
+kBCAGgskY+CBCCYpqOCCDDbo4IOKKUAICQdkoQAZGGao4RMKZHGACgg0suGIJIaxQColhAAAOw==
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fwww.iteye.com%2Fimages%2Fuser-logo-thumb.gif%3F1448702469&restype=3&from=derive&pi=
+
+R0lGODlhMAAwAPQAAOXl5eTk5Pv7++np6efn5/Pz8+bm5vz8/PHx8evr6+jo6PLy8vj4+O/v7/r6
++vn5+e3t7f39/fT09P7+/vf39/X19fb29uzs7PDw8O7u7urq6v///+Pj4wAAAAAAAAAAACH5BAAA
+AAAALAAAAAAwADAAAAX+ICeOZGmeaKqubOu+cCzPdG3feK7vfO//wKBwSCwafQSL4lgiPBgZJknC
+YBQCUtEFUZAkEgTCd5xYigAEgygwGJg5gIFGDQ+vAobDBoHY+P8FHAQSBxERDAkcDBsRZhR+CgAF
+hREPECoAAhsYGH9/CAaanhsQCn4UHBB+CwEPo3spmXtxqhsLCgaPGwIFuhMGC34NDhsHAQV+BwUW
+E34aKLILIqYbUdQPBg0LFX4IAXp/EAERxQQQBcgbFdCa0hwDwql+EATdDhESHBl/DO/dAX4KMIiA
+6kQ0EfA2NOBwQVgrBwMAGAAgYtGEAf42BLIgIAEeigbbIYxHoNkBjHRopmxwcEZPhEQpY4nMuJAD
+tw0THgi4UELCSiwc+vh54ADDCgB63CWsCWDRnwMgRXATADSABU8TCGCy4KCmAqI81zRgIOBBgahB
+HVQAKgICBQFqtWaZS7eu3bt48+rdy7ev37+AAwuWEQIAOw==
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: 7bit
+Content-Location: http://cdn12.sm-img5.com/?src=http%3A%2F%2Fstat.iteye.com%2F%3Furl%3Dhttp%253A%252F%252Fmichael-wong.iteye.com%252Fblog%252F976381%26referrer%3D%26user_id%3D&restype=3&from=derive&pi=
+
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://zm12.sm-img2.com/gst/css/??hot.css,common.css,extract.css
+
+section.hot-wrap .content {
+	padding: 3px 0px;
+}
+section.hot-wrap .content::after {
+	clear: both; display: block; content: "";
+}
+section.hot-wrap .hot-item {
+	padding: 0px 5px; width: 50%; line-height: 36px; float: left; =
+-webkit-box-sizing: border-box;
+}
+section.hot-wrap .hot-item > span {
+	overflow: hidden; vertical-align: top; display: inline-block; =
+white-space: nowrap; -ms-text-overflow: ellipsis; max-width: 100%; =
+-webkit-box-sizing: border-box;
+}
+section.hot-wrap .icon > span {
+	padding-right: 20px;
+}
+section.hot-wrap .icon > span::before {
+	background: =
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAUCAMAAADfuh9AAA=
+AABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAqUExURf98fP98fP98fExpcf98fP////+=
+/v/+fn//f3/+Pj/+zs//Nzf/39//r67wRqR4AAAAEdFJOU/GtJgCfN1pPAAAAt0lEQVQoFY2S=
+SRbEIAhENQEUwftftxmS3mi648LxUxY8ynnUAo+j1OMsxw/AIw2ojwrXQy0hMvoG5LxLAghX5=
+BuWTnYI3cpfpBG1kGKiYRuW2fKrG6EpHcmeREV0MsjU7qjlFDOh2NoVgNRCWe24fOSazUxrRA=
+7kFXExQxjDULNlUbkQfwv4GXmhAt19W1obuynvfohhoJmm6Xc2MuksNns9WRBn1G466Egysd9=
+P5U0zvGip/435AfTPDGqbxQnvAAAAAElFTkSuQmCC") no-repeat center / 17px =
+auto; width: 17px; height: 36px; margin-right: -20px; float: right; =
+display: inline-block; content: "";
+}
+section.hot-wrap-1 .content {
+	padding: 8px 11px; line-height: 30px;
+}
+section.hot-wrap-1 .content span {
+	margin-right: 10px; white-space: nowrap;
+}
+.hotword_html {
+	text-align: left;
+}
+.searchbox-wrap {
+	padding: 0px 7px 5px;
+}
+.searchbox {
+	margin: 0px 8px 8px; position: relative; z-index: 99;
+}
+.searchbox .row-wrap {
+	border: 1px solid rgb(195, 196, 197); border-image: none; overflow: =
+hidden;
+}
+.searchbox .r-wrap {
+	width: 42px; position: relative; background-color: rgb(255, 255, 255);
+}
+.searchbox .se-input {
+	margin: 0px; outline: 0px; border-radius: 0px; border: 0px =
+currentColor; border-image: none; height: 100%; color: rgb(34, 34, 34); =
+overflow: hidden; display: block; -ms-word-break: break-all; =
+background-color: rgb(255, 255, 255); -webkit-box-sizing: border-box; =
+-webkit-tap-highlight-color: transparent; -webkit-appearance: none; =
+-webkit-box-flex: 1; resize: none;
+}
+.searchbox .se-input {
+	font: 16px/28px Helvetica, sans-serif, arial; padding: 8px 49px 8px =
+8px; font-size-adjust: none; font-stretch: normal;
+}
+.searchbox .input-hidden {
+	font: 16px/28px Helvetica, sans-serif, arial; padding: 8px 49px 8px =
+8px; font-size-adjust: none; font-stretch: normal;
+}
+.searchbox .input-hidden {
+	left: 0px; white-space: nowrap; visibility: hidden; position: absolute;
+}
+.searchbox .submit {
+	font: 700 16px/38px =BA=DA=CC=E5, Helvetica, sans-serif, arial; =
+padding: 0px; border-radius: 0px; width: 100%; height: 100%; color: =
+rgb(66, 66, 66); overflow: hidden; position: absolute; z-index: 101; =
+box-sizing: border-box; font-size-adjust: none; font-stretch: normal; =
+-webkit-box-align: center; -webkit-box-pack: center; -webkit-box-orient: =
+vertical;
+}
+.searchbox .submit span {
+	background: =
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAA=
+AAM1BMVEUAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZm=
+ZmZlkqvaGAAAAEHRSTlMAKq/y24pSDsIWyXVgZpiARuXIhwAAANxJREFUOMuNVNsWhCAIFC95=
+r/7/axd23SijQ/PigcZBkckwoFrvdudtBSNiKTujLHcCpP2KBLOEo7RtEE2EZilwV6FOuTUfc=
+V4p0c8aGPurMHjMLRxilTIkWKhgrWNbQo1oZkTUSacyUiOAS6FiMBICyhzkLFLyX75iP4wM7E=
+8da3ugtLHbDzX5wJ5WbEp8oERsDa14JpnA33QV/Sz6jfS+vOyu/kb6S+vzwlMXZ8aYOmV27ey=
+AMDmAUncf9a+P+s9HljiKGwNzBE8nui1zHv8MzJHBnE3nOKNgc/YDULAQo/c/B9UAAAAASUVO=
+RK5CYII=3D") no-repeat center / 17px; width: 100%; height: 20px; =
+text-indent: -999px; overflow: hidden; border-left-color: rgb(204, 204, =
+204); border-left-width: 1px; border-left-style: solid; display: block; =
+position: relative; box-sizing: border-box; -webkit-tap-highlight-color: =
+transparent;
+}
+.searchbox .btn-clear {
+	background: =
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAA=
+AAIVBMVEUAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmOFP9JAAAACnRSTlMA2Rv=
+eHxccz7zGiyL+2AAAAHRJREFUGNNNz7EJgDAURdGPiAMIgqSKa9hmAVdwCzdwBOtUWVO5yHtJ=
+F05x/4snh964Rpr9LS3OmoX7EpO51CNgYcBG2AgLxaAZFINm0AyajTRp+1rankLbU2gLaRtpd=
+wgbYaEZFIPifufwceqmbC1u8OfrBUBgJS143nDeAAAAAElFTkSuQmCC") no-repeat =
+center / 14px;
+}
+.searchbox a {
+	text-decoration: none;
+}
+.searchbox .btn-clear {
+	top: 0px; width: 42px; height: 100%; right: 42px; position: absolute;
+}
+.searchbox .btn-voice {
+	top: 0px; width: 42px; height: 100%; right: 42px; position: absolute;
+}
+.searchbox .btn-voice {
+	background: =
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAmCAMAAADtLHsqAA=
+AAM1BMVEUAAAD////////////////////////////////////////////////////////////=
+///+3leKCAAAAEXRSTlMA/pQILMjl1je7Ihqfh3dUQT4MGmAAAACkSURBVDjL5ZJbCsNACEVz=
+dJxnXvtfbaEMjZMp5LfQ+6Uc9Iq6fBQkQZKw3KVCl+iNFJCsmgXKyIQYet+IeBIg+HgokinpS=
+uQrySSHwFkrDMg7/wmatvG8w3nzz/ear/z8G2b67aPUbDGKzn+oBVta7OzWP7a3b8ojyalPVQ=
+1WN29YwWov3wDbz6bazt2A7bKogpPU0fgQixBNjqtivsYPIzOfvQChPQOjpbnSxAAAAABJRU5=
+ErkJggg=3D=3D") no-repeat center / 13px padding-box content-box rgb(79, =
+172, 252); padding: 3px; right: 0px; box-sizing: border-box; =
+-webkit-box-sizing: border-box;
+}
+.searchbox .row-wrap .btn-voice {
+	display: none;
+}
+.searchbox .row-wrap .submit {
+=09
+}
+.searchbox .row-wrap .btn-clear {
+=09
+}
+.searchbox :not(.active).show-voice.row-wrap .btn-voice {
+=09
+}
+.searchbox :not(.fill-query).row-wrap .btn-voice {
+=09
+}
+.searchbox :not(.active).show-voice.row-wrap .submit {
+	display: none;
+}
+.searchbox :not(.active).show-voice.row-wrap .btn-clear {
+	display: none;
+}
+.searchbox :not(.fill-query).row-wrap .submit {
+	display: none;
+}
+.searchbox :not(.fill-query).row-wrap .btn-clear {
+	display: none;
+}
+.searchbox .se-box {
+	display: none; position: relative;
+}
+.searchbox [rows=3D'1'].se-input {
+	padding-bottom: 5px;
+}
+.searchbox .mode-voice .se-input {
+	padding: 6px 42px 6px 10px; line-height: 22px; font-size: 14px;
+}
+.searchbox .mode-voice .input-hidden {
+	padding: 6px 42px 6px 10px; line-height: 22px; font-size: 14px;
+}
+.searchbox .se-box-show {
+	display: block;
+}
+.suggest {
+	padding: 0px 10px 0px 0px; left: 0px; top: 0px; width: 100%; =
+margin-top: -1px; position: absolute; z-index: 20;
+}
+.suggest a {
+	padding: 8px 0px 8px 8px; line-height: 30px;
+}
+.suggest .box {
+	border: 1px solid rgb(195, 196, 197); border-image: none; line-height: =
+34px; overflow: hidden; background-color: rgb(255, 255, 255);
+}
+.suggest .lst {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.suggest li {
+	text-align: left; position: relative; background-color: rgb(255, 255, =
+255);
+}
+.suggest li::after {
+	left: 8px; right: 8px; bottom: 0px; border-top-color: rgb(221, 221, =
+221); border-top-width: 1px; border-top-style: solid; position: =
+absolute; content: " ";
+}
+.suggest .query {
+	margin: 0px 54px 0px 0px; color: rgb(51, 51, 51); font-size: 16px; =
+display: block; -ms-word-break: break-all;
+}
+.suggest .sug strong {
+	color: rgb(153, 153, 153); font-weight: 400;
+}
+.suggest .add {
+	padding: 0px 3px; top: 0px; height: 100%; text-align: center; right: =
+0px; color: rgb(166, 166, 166); line-height: 34px; font-size: 22px; =
+position: absolute;
+}
+.suggest .add::after {
+	background: =
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAA=
+AACVBMVEUAAACZmZmZmZl+xtzIAAAAAnRSTlMAxOqay5EAAAAeSURBVAjXY2BgYHRgAAGmBsq=
+prFVAsBJGUcdMiAMB7Q0SIcBWYrAAAAAASUVORK5CYII=3D") no-repeat center / =
+12px; width: 38px; height: 100%; display: block; content: " ";
+}
+.suggest .btns {
+	overflow: hidden;
+}
+.suggest .clear-history {
+	padding: 0px 15px 0px 8px; color: rgb(153, 153, 153); line-height: =
+40px; position: relative; -webkit-tap-highlight-color: transparent;
+}
+.suggest .btn-hide {
+	padding: 0px 15px 0px 8px; color: rgb(153, 153, 153); line-height: =
+40px; position: relative; -webkit-tap-highlight-color: transparent;
+}
+.suggest .clear-history {
+	float: left; display: none;
+}
+.suggest .btn-hide {
+	float: right;
+}
+.suggest .btn-hide::before {
+	left: 0px; top: 50%; height: 14px; margin-top: -7px; border-left-color: =
+rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid; =
+position: absolute; content: " ";
+}
+pre {
+	white-space: pre-wrap; -ms-word-wrap: break-word;
+}
+blockquote {
+	margin: 0px; padding: 3px;
+}
+dl {
+	margin: 0px; padding: 3px;
+}
+dd {
+	margin: 0px; padding: 3px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+* {
+	max-width: 100%;
+}
+.pc {
+	text-align: center; color: rgb(153, 153, 153); line-height: 13px; =
+font-size: 12px; margin-top: 15px; margin-bottom: 5px; display: block;
+}
+.pcblue {
+	text-align: center; color: rgb(0, 43, 229); line-height: 13px; =
+font-size: 12px; margin-top: 15px; margin-bottom: 5px;
+}
+footer {
+	padding-top: 20px; border-top-color: rgb(225, 226, 227); =
+border-top-width: 1px; border-top-style: solid; box-sizing: border-box; =
+background-color: rgb(255, 255, 255);
+}
+footer > p {
+	text-align: center; line-height: 16px;
+}
+footer > p:first-child {
+	padding-bottom: 20px;
+}
+footer > p span {
+	padding: 0px 14px; color: rgb(134, 134, 134); line-height: 16px; =
+font-size: 16px; vertical-align: middle; display: inline-block;
+}
+footer > p:not(.dif) span {
+	border-left-color: rgb(204, 204, 204); border-left-width: 1px; =
+border-left-style: solid;
+}
+footer > p span:first-child {
+	border-left-color: currentColor; border-left-width: 0px; =
+border-left-style: none;
+}
+footer > p a {
+	color: rgb(164, 164, 164);
+}
+footer > p.dif a {
+	color: rgb(134, 134, 134);
+}
+footer .trans_pc {
+	background: =
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAXBAMAAADq5DJkAA=
+AAD1BMVEUAAACkpKSkpKSkpKSkpKTxwMk8AAAABHRSTlMA5sRJvmoh9gAAAC5JREFUGNNjMHR=
+BAsIMIshcRwYXBiTgMgy5qP5FDw0wYHFxcYCwMLkqEJVOmFwA2SQbfzCNHCwAAAAASUVORK5C=
+YII=3D") no-repeat 0px / 14px auto; padding-right: 0px; padding-left: =
+16px; margin-right: 28px; position: relative;
+}
+footer .trans_pc::after {
+	background: rgb(204, 204, 204); top: 50%; width: 1px; height: 14px; =
+right: -28px; margin-top: -7px; position: absolute; content: "";
+}
+footer .trans_backtop {
+	background: =
+url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAYCAMAAADJYP15AA=
+AATlBMVEUAAACkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKS=
+kpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKRHeibiAAAAGXRSTlMA7rkD/viGEjMfzJ1l=
+Ct/VYFNJQibh4Kt26gH26AAAAIZJREFUKM/Vj1kShCAMRAEDKIj7LH3/i46ZMTIuVX7bP5BXS=
+Xeisupanai0djxS/wD0tKeFQYxo/Q47hJQCTLGhPelKqUrD/dNJ08DvQOgyTS2ceNlyxS/2lO=
+SnxL7R+HXPRlpG4sF8FRt+4zdXd6B+dgv4idHynZeNOGIYGRW8lDfCrCv8AVdXC/BnSWbDAAA=
+AAElFTkSuQmCC") no-repeat 1px / 11px auto; margin-left: 20px;
+}
+.kb-dialog {
+	background: rgba(0, 0, 0, 0.65); left: 0px; top: 0px; width: 100%; =
+bottom: 0px; position: absolute; z-index: 20; min-height: 100%;
+}
+.sm_disclaimer {
+	padding: 5px 0px !important; color: rgb(153, 153, 153); font-family: =
+"Microsoft Yahei","Lucida Grande","Lucida Sans =
+Unicode",Helvetica,Arial,Verdana,sans-serif; font-size: 12px !important;
+}
+.sm_disclaimer > b {
+	color: black;
+}
+body {
+	margin: 0px !important; padding-right: 2px !important; padding-left: =
+2px !important;
+}
+.shenma_breadcrumb {
+	color: rgb(113, 113, 113) !important; padding-top: 13px !important;
+}
+.shenma_breadcrumb {
+	font-size: 13px !important;
+}
+.shenma_breadcrumb * {
+	font-size: 13px !important;
+}
+.shenma_articletitle {
+	padding-top: 13px !important; padding-bottom: 13px !important;
+}
+.shenma_articletitle {
+	clear: both; font-size: 22px !important;
+}
+.shenma_articletitle * {
+	clear: both; font-size: 22px !important;
+}
+.shenma_maintext {
+	line-height: 22px !important; padding-top: 13px !important;
+}
+.sm_bbs_floor1 {
+	border: 5px solid rgb(0, 0, 0) !important; border-image: none =
+!important;
+}
+.sm_bbs_floor2 {
+	border: 5px solid rgb(0, 0, 0) !important; border-image: none =
+!important;
+}
+.sm_bbs_author {
+	border: 1px solid green !important; border-image: none !important;
+}
+.sm_bbs_content {
+	border: 1px solid red !important; border-image: none !important;
+}
+.hotword_html {
+	margin: 10px 0px; padding: 10px 0px; border: 1px solid green =
+!important; border-image: none !important; background-color: white =
+!important;
+}
+#sm_nav_content {
+	border: 1px solid red; border-image: none; display: none;
+}
+#sm_nav_showOrHide {
+	color: red !important;
+}
+.sm_nav_title {
+	text-align: right;
+}
+.sm_navigate {
+	overflow: hidden; background-color: rgb(51, 51, 51) !important;
+}
+.sm_navigate a {
+	padding: 0px 5px; width: 33%; text-align: center; color: rgb(255, 255, =
+255); line-height: 30px; overflow: hidden; font-size: 16px; float: left; =
+display: block; white-space: nowrap; -ms-text-overflow: ellipsis; =
+box-sizing: border-box;
+}
+.sm_navigate_item {
+	margin: 0px; padding: 0px; border: 1px solid rgb(208, 208, 208); =
+border-image: none; overflow: hidden;
+}
+.sm_navigate_display {
+=09
+}
+#sm_navigate_not_display {
+=09
+}
+html {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+form {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+h1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+h2 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+h3 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+h4 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+h5 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+h6 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+div {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+li {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: =
+none;
+}
+ul {
+	list-style: none; margin-top: 5px; border-bottom-color: rgb(234, 234, =
+234); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+li {
+	list-style: none; margin-top: 5px; border-bottom-color: rgb(234, 234, =
+234); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+tr {
+	list-style: none; margin-top: 5px; border-bottom-color: rgb(234, 234, =
+234); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+ul {
+	width: 100%;
+}
+body {
+	text-align: left; color: rgb(66, 66, 66); line-height: 20px; =
+font-family: STHeiti,Helvetica,sans-serif; background-color: rgb(240, =
+240, 240); -webkit-text-size-adjust: none;
+}
+a {
+	color: rgb(0, 105, 235); text-decoration: none;
+}
+img {
+	border: 0px currentColor; border-image: none;
+}
+h1 {
+	font-size: 18px;
+}
+h2 {
+	font-size: 18px;
+}
+h3 {
+	font-size: 18px;
+}
+h4 {
+	font-size: 16px;
+}
+h5 {
+	font-size: 16px;
+}
+h6 {
+	font-size: 16px;
+}
+.shenma_maintext p {
+	line-height: 24px; margin-bottom: 16px;
+}
+.shenma_pageturning * {
+	text-indent: 0px;
+}
+.com_list img {
+	margin: 8px 0px; display: block; max-width: 100%;
+}
+.com_list > div {
+	padding: 10px 0px; border-top-color: rgb(224, 224, 224); =
+border-top-width: 1px; border-top-style: dashed;
+}
+.com_list > div:first-child {
+	border-top-color: currentColor; border-top-width: medium; =
+border-top-style: none;
+}
+em {
+	font-style: normal;
+}
+i {
+	font-style: normal;
+}
+h3 {
+	font-weight: normal;
+}
+h2 {
+	font-weight: normal;
+}
+h1 {
+	font-weight: normal;
+}
+.padd {
+	padding: 0px 8px;
+}
+.clear::after {
+	width: 0px; height: 0px; clear: both; font-size: 0px; display: block; =
+visibility: hidden; content: ".";
+}
+.model_head {
+	background: rgb(249, 249, 249); height: 43px; color: rgb(66, 66, 66); =
+line-height: 43px; overflow: hidden; border-bottom-color: rgb(208, 208, =
+208); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.model_head h3 {
+	overflow: hidden; font-size: 17px; white-space: nowrap; =
+-ms-text-overflow: ellipsis; -webkit-box-flex: 1;
+}
+.model_pc {
+	color: rgb(113, 113, 113); display: block;
+}
+.cell_title {
+	background: rgb(240, 240, 240); margin: 0px; padding: 0px 8px; height: =
+31px; line-height: 31px; font-weight: normal; position: relative;
+}
+.cell_title em {
+	left: 8px; margin-top: -8px;
+}
+.cell_title::after {
+	left: 0px; width: 100%; height: 0px; bottom: 1px; border-bottom-color: =
+rgb(252, 252, 252); border-bottom-width: 1px; border-bottom-style: =
+solid; position: absolute; content: "";
+}
+.com_cell {
+	background: rgb(240, 240, 240); padding: 8px;
+}
+.com_cell > div {
+	background: rgb(255, 255, 255); box-shadow: 0px 3px 1.5px =
+rgba(0,0,0,0.035), 0px 0.8px 2px rgba(0,0,0,0.25);
+}
+.com_list li {
+	padding: 10px 0px; border-top-color: rgb(224, 224, 224); =
+border-top-width: 1px; border-top-style: dashed;
+}
+.com_list li:first-child {
+	border-top-color: currentColor; border-top-width: medium; =
+border-top-style: none;
+}
+.com_title {
+	color: rgb(113, 113, 113);
+}
+.com_title span {
+	display: block;
+}
+.com_name {
+	overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis; =
+-webkit-box-flex: 1;
+}
+.com_time {
+	width: 130px; text-align: right; font-size: 13px;
+}
+.bottom_p {
+	background: rgb(249, 249, 249); height: 35px; text-align: center; =
+color: rgb(102, 102, 102); line-height: 35px; font-size: 13px; =
+border-top-color: rgb(224, 224, 224); border-top-width: 1px; =
+border-top-style: solid; display: block;
+}
+.mark_ri {
+	padding-right: 8px; position: relative;
+}
+.mark_ri::before {
+	border-width: 5px; border-style: solid; border-color: transparent =
+transparent transparent rgb(153, 153, 153); top: 50%; width: 0px; =
+height: 0px; right: -4px; font-size: 0px; margin-top: -5px; position: =
+absolute; content: ".";
+}
+.mark_ri::after {
+	border-width: 5px; border-style: solid; border-color: transparent =
+transparent transparent rgb(153, 153, 153); top: 50%; width: 0px; =
+height: 0px; right: -4px; font-size: 0px; margin-top: -5px; position: =
+absolute; content: ".";
+}
+.com_word {
+	padding-top: 10px;
+}
+.mark_ri::after {
+	border-color: transparent transparent transparent rgb(249, 249, 249); =
+right: -2px;
+}
+.other {
+	background: rgb(255, 255, 255);
+}
+.about {
+	background: rgb(255, 255, 255);
+}
+.main {
+	background: rgb(255, 255, 255);
+}
+.mod_page {
+	background: rgb(249, 249, 249); padding: 0px 9px; height: 39px; =
+text-align: center; line-height: 39px; border-top-color: rgb(224, 224, =
+224); border-top-width: 1px; border-top-style: solid;
+}
+.mod_page a {
+	margin: 3px; padding: 3px; line-height: 20px; display: inline-block;
+}
+.mod_page span {
+	margin: 3px; padding: 3px; line-height: 20px; display: inline-block;
+}
+.mod_page b {
+	margin: 3px; padding: 3px; line-height: 20px; display: inline-block;
+}
+.mod_page a {
+	padding: 3px 7px;
+}
+.mod_page a[href] {
+	padding: 3px 7px; border: 1px solid rgb(191, 207, 225); border-image: =
+none; background-color: whitesmoke;
+}
+.mod_page i {
+	color: rgb(113, 113, 113);
+}
+.detail {
+	text-indent: 2em;
+}
+.prev {
+	padding: 0px 0px 0px 10px; color: rgb(66, 66, 66); float: left; =
+position: relative;
+}
+.next {
+	padding: 0px 0px 0px 10px; color: rgb(66, 66, 66); float: left; =
+position: relative;
+}
+.next {
+	padding: 0px 10px 0px 0px; float: right;
+}
+.prev::after {
+	border-width: 5px; border-style: solid; top: 50%; width: 0px; height: =
+0px; font-size: 0px; margin-top: -5px; position: absolute; content: ".";
+}
+.prev::before {
+	border-width: 5px; border-style: solid; top: 50%; width: 0px; height: =
+0px; font-size: 0px; margin-top: -5px; position: absolute; content: ".";
+}
+.next::after {
+	border-width: 5px; border-style: solid; top: 50%; width: 0px; height: =
+0px; font-size: 0px; margin-top: -5px; position: absolute; content: ".";
+}
+.next::before {
+	border-width: 5px; border-style: solid; top: 50%; width: 0px; height: =
+0px; font-size: 0px; margin-top: -5px; position: absolute; content: ".";
+}
+.prev::after {
+	border-color: transparent rgb(136, 136, 136) transparent transparent; =
+left: -5px;
+}
+.prev::before {
+	border-color: transparent rgb(249, 249, 249) transparent transparent; =
+left: -3px; z-index: 1;
+}
+.next::after {
+	border-color: transparent transparent transparent rgb(136, 136, 136); =
+right: -5px;
+}
+.next::before {
+	border-color: transparent transparent transparent rgb(249, 249, 249); =
+right: -3px; z-index: 1;
+}
+.none {
+	color: rgb(153, 153, 153);
+}
+.none.prev::after {
+	border-color: transparent rgb(187, 187, 187) transparent transparent;
+}
+.none.next::after {
+	border-color: transparent transparent transparent rgb(187, 187, 187);
+}
+.main {
+	margin-bottom: 3px; box-shadow: 0px 1px 2px rgba(0,0,0,0.16);
+}
+.text {
+	padding: 5px 2px 8px; line-height: 22px;
+}
+.text {
+	font-size: 16px;
+}
+.time {
+	margin: 5px 0px; color: rgb(113, 113, 113); font-size: 13px;
+}
+.time span {
+	float: right;
+}
+.shenma_flash {
+	width: 100%;
+}
+section.video > .banner {
+	margin: 0px auto; padding: 1px 1px 1px 70px; border-radius: 5px; width: =
+288px; height: 50px; display: block; position: relative; box-sizing: =
+border-box; background-color: rgb(97, 206, 255);
+}
+section.video > .banner::before {
+	background: =
+url("data:image/png;base64,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
+kX1PXfwUYAB9jn83NAzRkAAAAAElFTkSuQmCC") 0% 0% / 26px 26px; left: 20px; =
+top: 13px; width: 26px; height: 26px; display: block; position: =
+absolute; content: "";
+}
+section.video > .banner > span {
+	width: 100%; height: 100%; text-align: center; color: rgb(18, 173, =
+242); line-height: 48px; font-size: 16px; display: block; =
+background-color: rgb(205, 239, 255);
+}
+.sm_sf {
+	font-size: 14px;
+}
+.sm_bf {
+	font-size: 18px;
+}
+.sm_link_pack {
+	clear: both; font-size: 0px;
+}
+.sm_link {
+	padding: 0px; width: 100%; text-align: left; line-height: 36px; =
+text-indent: 0px; overflow: hidden; clear: both; font-size: 16px; =
+border-bottom-color: rgb(218, 218, 218); border-bottom-width: 1px; =
+border-bottom-style: solid; float: left; display: block;
+}
+.sm_slink {
+	padding: 0px; width: 49%; line-height: 36px; text-indent: 0px; =
+overflow: hidden; font-size: 16px; display: inline-block;
+}
+.sm_mlink {
+	padding: 0px; width: 32%; line-height: 36px; text-indent: 0px; =
+overflow: hidden; font-size: 16px; display: inline-block;
+}
+.sm_block {
+	border: 1px solid rgb(234, 234, 234); border-image: none; width: 100%; =
+padding-bottom: 10px; font-size: 16px;
+}
+.sm_lineblock {
+	width: 100%; line-height: 36px; font-size: 16px; border-bottom-color: =
+rgb(234, 234, 234); border-bottom-width: 1px; border-bottom-style: =
+solid;
+}
+.sm_slider_wraper {
+	overflow: hidden; position: relative;
+}
+.sm_slider_wraper .sm_slider {
+	width: 100%; margin-left: 0px;
+}
+.sm_slider_wraper .sm_slider li {
+	width: 100%; position: relative;
+}
+.sm_slider_wraper .sm_slider p {
+	background: rgba(0, 0, 0, 0.3); margin: 0px; padding: 0px 5px; left: =
+0px; right: 0px; bottom: 0px; color: rgb(255, 255, 255); line-height: =
+30px; position: absolute; z-index: 2;
+}
+.sm_slider_wraper .sm_slider a {
+	text-align: center; color: rgb(255, 255, 255);
+}
+.sm_slider_wraper .sm-sliderNav {
+	text-align: center;
+}
+.sm_slider_wraper .sm-sliderNav span {
+	background: rgb(238, 238, 238); border-radius: 4px; border: 1px solid =
+rgb(255, 255, 255); border-image: none; width: 4px; height: 4px; =
+display: inline-block;
+}
+.sm_slider_wraper .sm-sliderNav span.on {
+	background: red;
+}
+.sm_slider_wraper a {
+	display: block;
+}
+.sm_slider_wraper div .sm_PicImg2 {
+	background-position: center; border: 1px solid rgb(238, 238, 238); =
+border-image: none; height: 150px; background-repeat: no-repeat; =
+background-size: contain; background-color: rgb(249, 249, 249);
+}
+.scroll {
+	overflow: hidden; clear: both; border-right-color: rgb(222, 222, 222); =
+border-left-color: rgb(222, 222, 222); border-right-width: 1px; =
+border-left-width: 1px; border-right-style: solid; border-left-style: =
+solid;
+}
+.scroll * {
+	max-width: none !important;
+}
+.scroll {
+	max-width: none !important;
+}
+.scroll-bar {
+	background: rgb(247, 247, 247); padding: 0px 36px; border-bottom-color: =
+rgb(222, 222, 222); border-bottom-width: 1px; border-bottom-style: =
+solid; position: relative;
+}
+.scroll-bar .scroll-btn {
+	top: 0px; width: 35px; height: 100%; text-align: center; right: 0px; =
+border-left-color: rgb(222, 222, 222); border-left-width: 1px; =
+border-left-style: solid; position: absolute; background-color: rgb(247, =
+247, 247);
+}
+.scroll-bar a:first-child {
+	left: 0px; right: auto;
+}
+.scroll-bar > div {
+	height: 34px; text-align: left; position: relative;
+}
+.scroll-bar .scroll-thumb {
+	background: rgb(231, 231, 231); border: 1px solid rgb(247, 247, 247); =
+border-image: none; height: 100%; margin-left: 0px; display: =
+inline-block; min-width: 50px; box-sizing: border-box; =
+-webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.scroll-bar .scroll-btn::before {
+	background: rgb(52, 108, 250); margin: -1px 0px 0px -3px; left: 50%; =
+top: 50%; width: 6px; height: 2px; position: absolute; content: ""; =
+-webkit-transform: rotate(-60deg); -webkit-transform-origin: right 10%;
+}
+.scroll-bar .scroll-btn::after {
+	background: rgb(52, 108, 250); margin: -1px 0px 0px -3px; left: 50%; =
+top: 50%; width: 6px; height: 2px; position: absolute; content: ""; =
+-webkit-transform: rotate(-60deg); -webkit-transform-origin: right 10%;
+}
+.scroll-bar a:first-child {
+	-webkit-transform: rotate(180deg);
+}
+.scroll-bar .disable.scroll-btn::before {
+	background: rgb(204, 204, 204);
+}
+.scroll-bar .disable.scroll-btn::after {
+	background: rgb(204, 204, 204);
+}
+.scroll-bar .scroll-btn::after {
+	-webkit-transform: rotate(60deg); -webkit-transform-origin: right 90%;
+}
+.sm_link_pack::after {
+	width: 0px; height: 0px; clear: both; font-size: 0px; display: block; =
+visibility: hidden; content: ".";
+}
+.sm_tr::after {
+	width: 0px; height: 0px; clear: both; font-size: 0px; display: block; =
+visibility: hidden; content: ".";
+}
+.sm_Pic {
+	width: 80px; margin-right: 5px; float: left; min-height: 60px; =
+max-height: 100px;
+}
+.sm_PicImg {
+	max-width: 100% !important;
+}
+.sm_PicImg1 {
+	vertical-align: middle; max-height: 100%; min-width: 80px; max-width: =
+100% !important;
+}
+.sm_Pic1 {
+	margin: auto; border: 1px solid rgb(224, 224, 224); border-image: none; =
+width: 150px; height: 140px; text-align: center; overflow: hidden;
+}
+.sm_Pic1 > a {
+	width: 150px; height: 140px; vertical-align: middle; display: =
+table-cell;
+}
+.sm_PicAtom {
+	width: 100%; height: auto; overflow: hidden; padding-top: 5px; =
+padding-bottom: 5px; border-bottom-color: rgb(234, 234, 234); =
+border-bottom-width: 1px; border-bottom-style: solid;
+}
+.sm_PicDescrip {
+	overflow: hidden;
+}
+.sm_PicAtom1 {
+	padding: 0px 10px; width: 49%; height: auto; overflow: hidden; =
+font-size: 13px; vertical-align: top; border-bottom-color: currentColor; =
+border-bottom-width: medium; border-bottom-style: none; display: =
+inline-block; box-sizing: border-box; -webkit-box-sizing: border-box; =
+-moz-box-sizing: border-box;
+}
+.sm_PicTit {
+	color: rgb(34, 34, 34); line-height: 20px; font-size: 16px; =
+font-weight: 700; margin-bottom: 2px;
+}
+.sm_PicTit1 {
+	padding: 5px 0px; text-align: center; color: rgb(113, 113, 113); =
+line-height: 20px; font-size: 16px;
+}
+.sm_PicText {
+	color: rgb(85, 85, 85); padding-top: 5px; font-size: 13px; display: =
+inline;
+}
+a.sm_PicText {
+	color: rgb(0, 0, 0); padding-left: 5px; font-weight: 700;
+}
+.sm_PicAtom::after {
+	width: 0px; height: 0px; clear: both; font-size: 0px; display: block; =
+visibility: hidden; content: ".";
+}
+.sm_PicAtom1::after {
+	width: 0px; height: 0px; clear: both; font-size: 0px; display: block; =
+visibility: hidden; content: ".";
+}
+.sm_PicList {
+	clear: both; font-family: "Microsoft Yahei","Lucida Grande","Lucida =
+Sans Unicode",Helvetica,Arial,Verdana,sans-serif; font-size: 0px; =
+margin-bottom: 10px; background-color: rgb(255, 255, 255);
+}
+footer {
+	padding-top: 5px; border-top-color: rgb(224, 224, 224); =
+border-top-width: 1px; border-top-style: solid; box-sizing: border-box; =
+background-color: rgb(240, 240, 240);
+}
+footer > p {
+	text-align: center; line-height: 28px;
+}
+footer > p.footlink > a {
+	padding: 0px 14px; height: 14px; color: rgb(113, 113, 113); =
+line-height: 14px; font-size: 13px; vertical-align: middle; =
+border-left-color: rgb(204, 204, 204); border-left-width: 1px; =
+border-left-style: solid; display: inline-block;
+}
+footer > p.footlink > a:first-child {
+	border-left-color: currentColor; border-left-width: medium; =
+border-left-style: none;
+}
+footer > p:last-child.footlink > a {
+	color: rgb(153, 153, 153);
+}
+.sm_tab {
+	background: rgb(238, 238, 238); margin: 0px 0px 15px; padding: 5px; =
+-moz-box-shadow: 0 0 5px #666; -webkit-box-shadow: 0 0 5px #666;
+}
+.sm_tab ul {
+	list-style: none !important; border-bottom-color: currentColor =
+!important; border-bottom-width: medium !important; border-bottom-style: =
+none !important;
+}
+li {
+	list-style: none !important; border-bottom-color: currentColor =
+!important; border-bottom-width: medium !important; border-bottom-style: =
+none !important;
+}
+.sm_tab_title {
+	list-style: none; margin: 0px 0px 10px 5px; overflow: hidden;
+}
+.sm_tab_title_item {
+	background: rgb(149, 146, 144); margin: 10px 10px 0px 0px; padding: =
+5px; text-align: center; color: white; float: left; display: block; =
+min-width: 50px; -moz-box-shadow: 0 0 10px #959290; -webkit-box-shadow: =
+0 0 10px #959290; -moz-border-radius-topleft: 3px; =
+-webkit-border-top-left-radius: 3px; -moz-border-radius-topright: 3px; =
+-webkit-border-top-right-radius: 3px; -moz-border-radius-bottomleft: =
+3px; -webkit-border-bottom-left-radius: 3px; =
+-moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: =
+3px;
+}
+.sm_tab_title_not_item {
+	float: left;
+}
+.current.sm_tab_title_item {
+	margin: 10px 10px 0px 0px; padding: 5px; text-align: center; color: =
+white; float: left; display: block; min-width: 50px; background-color: =
+rgb(254, 73, 2); -moz-box-shadow: 0 0 10px #fe4902; -webkit-box-shadow: =
+0 0 10px #fe4902;
+}
+.sm_tab_content {
+	list-style: none; margin: 0px 0px 5px; padding: 5px; -moz-box-shadow: 0 =
+0 5px #666; -webkit-box-shadow: 0 0 5px #666;
+}
+.current.sm_tab_content_item {
+	padding: 4px; color: rgb(102, 102, 102); display: block;
+}
+.sm_tab_content_item {
+	display: none;
+}
+.sm_tab_content_item li a:hover {
+	background: rgb(238, 154, 73); color: white; -moz-box-shadow: 0 0 18px =
+#ee9a49; -webkit-box-shadow: 0 0 18px #ee9a49;
+}
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://zm12.sm-img2.com/gst/js/tick_log_source.js
+
+function tick_log(pos){
+    var xmlHttp;
+
+    try
+    {
+        //Firefox,Opera 8.0+ safari
+        xmlHttp =3D new XMLHttpRequest();
+    }
+    catch (e)
+    {
+        //Inter Expplorer
+        try
+        {
+            xmlHttp =3D new ActiveXObject("Msxm12.XMLHTTP");
+        }
+        catch (e)
+        {
+            try
+            {
+                xmlHttp =3D new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            catch (e)
+            {
+                //alert("Your browser does not support AJAX!");
+                return false;
+            }
+        }
+    }
+    xmlHttp.onreadystatechange =3D function()
+    {
+        if (xmlHttp.readyState =3D=3D=3D 4)
+        {
+            //alert("=B4=F2=B5=E3=B3=C9=B9=A6");
+        }
+    };
+    var src =3D getQueryString("src");
+    var time =3D (new Date()).valueOf();=20
+    xmlHttp.open("Get", "1.css?"+"src=3D"+src+"&time=3D"+time, true);
+    xmlHttp.send(null);
+}
+function getQueryString(name)
+{
+    if(location.href.indexOf("?")=3D=3D-1 || =
+location.href.indexOf(name+'=3D')=3D=3D-1)
+    {
+        return '';
+    }
+
+    var queryString =3D =
+location.href.substring(location.href.indexOf("?")+1);
+
+    var parameters =3D queryString.split("&");
+
+    var pos, paraName, paraValue;
+    for(var i=3D0; i<parameters.length;i++)
+    {
+        pos =3D parameters[i].indexOf('=3D');
+        if(pos =3D=3D -1) { continue; }
+
+        paraName =3D parameters[i].substring(0, pos);
+        paraValue =3D parameters[i].substring(pos + 1);
+
+        if(paraName =3D=3D name)
+        {
+            return paraValue;
+        }
+    }
+    return '';
+};
+tick_log("start");
+
+------=_NextPart_000_0000_01D15512.25564C80
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://zm12.sm-img2.com/gst/js/??base64.js,lazy_img.js,click.js,rec_base_1.js,nav.js,tab.js?version=20151127
+
+/**
+*
+*  Base64 encode / decode
+*
+*  @author haitao.tu
+*  @date   2010-04-26
+*  @email  tuhaitao@foxmail.com
+*
+*/
+=20
+function Base64() {
+=20
+	// private property
+	_keyStr =3D =
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=3D";
+=20
+	// public method for encoding
+	this.encode =3D function (input) {
+		var output =3D "";
+		var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+		var i =3D 0;
+		input =3D _utf8_encode(input);
+		while (i < input.length) {
+			chr1 =3D input.charCodeAt(i++);
+			chr2 =3D input.charCodeAt(i++);
+			chr3 =3D input.charCodeAt(i++);
+			enc1 =3D chr1 >> 2;
+			enc2 =3D ((chr1 & 3) << 4) | (chr2 >> 4);
+			enc3 =3D ((chr2 & 15) << 2) | (chr3 >> 6);
+			enc4 =3D chr3 & 63;
+			if (isNaN(chr2)) {
+				enc3 =3D enc4 =3D 64;
+			} else if (isNaN(chr3)) {
+				enc4 =3D 64;
+			}
+			output =3D output +
+			_keyStr.charAt(enc1) + _keyStr.charAt(enc2) +
+			_keyStr.charAt(enc3) + _keyStr.charAt(enc4);
+		}
+		return output;
+	}
+=20
+	// public method for decoding
+	this.decode =3D function (input) {
+		var output =3D "";
+		var chr1, chr2, chr3;
+		var enc1, enc2, enc3, enc4;
+		var i =3D 0;
+		input =3D input.replace(/[^A-Za-z0-9\+\/\=3D]/g, "");
+		while (i < input.length) {
+			enc1 =3D _keyStr.indexOf(input.charAt(i++));
+			enc2 =3D _keyStr.indexOf(input.charAt(i++));
+			enc3 =3D _keyStr.indexOf(input.charAt(i++));
+			enc4 =3D _keyStr.indexOf(input.charAt(i++));
+			chr1 =3D (enc1 << 2) | (enc2 >> 4);
+			chr2 =3D ((enc2 & 15) << 4) | (enc3 >> 2);
+			chr3 =3D ((enc3 & 3) << 6) | enc4;
+			output =3D output + String.fromCharCode(chr1);
+			if (enc3 !=3D 64) {
+				output =3D output + String.fromCharCode(chr2);
+			}
+			if (enc4 !=3D 64) {
+				output =3D output + String.fromCharCode(chr3);
+			}
+		}
+		output =3D _utf8_decode(output);
+		return output;
+	}
+=20
+	// private method for UTF-8 encoding
+	_utf8_encode =3D function (string) {
+		string =3D string.replace(/\r\n/g,"\n");
+		var utftext =3D "";
+		for (var n =3D 0; n < string.length; n++) {
+			var c =3D string.charCodeAt(n);
+			if (c < 128) {
+				utftext +=3D String.fromCharCode(c);
+			} else if((c > 127) && (c < 2048)) {
+				utftext +=3D String.fromCharCode((c >> 6) | 192);
+				utftext +=3D String.fromCharCode((c & 63) | 128);
+			} else {
+				utftext +=3D String.fromCharCode((c >> 12) | 224);
+				utftext +=3D String.fromCharCode(((c >> 6) & 63) | 128);
+				utftext +=3D String.fromCharCode((c & 63) | 128);
+			}
+=20
+		}
+		return utftext;
+	}
+=20
+	// private method for UTF-8 decoding
+	_utf8_decode =3D function (utftext) {
+		var string =3D "";
+		var i =3D 0;
+		var c =3D c1 =3D c2 =3D 0;
+		while ( i < utftext.length ) {
+			c =3D utftext.charCodeAt(i);
+			if (c < 128) {
+				string +=3D String.fromCharCode(c);
+				i++;
+			} else if((c > 191) && (c < 224)) {
+				c2 =3D utftext.charCodeAt(i+1);
+				string +=3D String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+				i +=3D 2;
+			} else {
+				c2 =3D utftext.charCodeAt(i+1);
+				c3 =3D utftext.charCodeAt(i+2);
+				string +=3D String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) =
+| (c3 & 63));
+				i +=3D 3;
+			}
+		}
+		return string;
+	}
+}
+
+
+
+	function my_decode(utftext) {
+		var string =3D "";
+		var i =3D 0;
+		var c =3D c1 =3D c2 =3D 0;
+		while ( i < utftext.length ) {
+			c =3D utftext.charCodeAt(i);
+			if (c < 128) {
+			=09
+				//c -=3D 1;
+			=09
+				string +=3D String.fromCharCode(c);
+				i++;
+			} else if((c > 191) && (c < 224)) {
+				c2 =3D utftext.charCodeAt(i+1);
+			=09
+				//c -=3D 1;
+				//c2 -=3D 1;
+			alert("222");=09
+				string +=3D String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+				i +=3D 1;
+			} else {
+				c2 =3D utftext.charCodeAt(i+1);
+				c3 =3D utftext.charCodeAt(i+2);
+			=09
+				//c -=3D 1;
+				//c2 -=3D 1;
+				//c3 -=3D 1;
+			alert("333");
+				string +=3D String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) =
+| (c3 & 63));
+				i +=3D 1;
+			}
+		}
+		return string;
+	}
+
+
+
+	var check_encryption_fail =3D false;
+=09
+	function getParam(name){
+    if(location.href.indexOf("?")=3D=3D-1 || =
+location.href.indexOf(name+'=3D')=3D=3D-1){
+        return '';
+    }
+    var queryString =3D =
+location.href.substring(location.href.indexOf("?")+1);
+
+    var parameters =3D queryString.split("&");
+
+    var pos, paraName, paraValue;
+    for(var i=3D0; i<parameters.length;i++)
+    {
+        pos =3D parameters[i].indexOf('=3D');
+        if(pos =3D=3D -1) { continue; }
+
+        paraName =3D parameters[i].substring(0, pos);
+        paraValue =3D parameters[i].substring(pos + 1);
+
+        if(paraName =3D=3D name)
+        {
+            return paraValue;
+        }
+    }
+    return '';
+};
+=09
+=09
+	function sendRequest(content){
+			var xmlHttp;
+		=09
+			try{
+			    //Firefox,Opera 8.0+ safari
+			    xmlHttp =3D new XMLHttpRequest();
+			}
+			catch (e){
+			    //Inter Expplorer
+			    try{
+			        xmlHttp =3D new ActiveXObject("Msxm12.XMLHTTP");
+			    }
+			    catch (e){
+			        try{
+			            xmlHttp =3D new ActiveXObject("Microsoft.XMLHTTP");
+			        }
+			        catch (e){
+			            //alert("Your browser does not support AJAX!");
+			            return false;
+			        }
+			    }
+			}
+			xmlHttp.onreadystatechange =3D function(){
+			    if (xmlHttp.readyState =3D=3D=3D 4){
+			        //alert("=C2=B4=C3=B2=C2=B5=C3=A3=C2=B3=C3=89=C2=B9=C2=A6");
+			    }
+			};
+			var user_agent =3D navigator.userAgent;
+			var time =3D (new Date()).valueOf();=20
+			var src =3D getParam("src");
+			var uid =3D getParam("uid");
+			var hid =3D getParam("hid");
+			//xmlHttp.open("Get", =
+"check_encry.html?"+"src=3D"+src+"&user_agent=3D"+user_agent+"&uid=3D"+ui=
+d+"&hid=3D"+hid+"&time=3D"+time, true);
+			xmlHttp.open("Get", "check_encry.html?"+"src=3D"+src+"&time=3D"+time, =
+true);
+			xmlHttp.send(null);=09
+	}
+=09
+	  =09
+=09
+=09
+		function checkEncryption2(){
+	      	    var node_main =3D document.querySelectorAll('.main');
+		    if(check_encryption_fail =3D=3D false && node_main.length =3D=3D =
+0){
+		        check_encryption_fail =3D true;=09
+		    	sendRequest();
+		    }=09
+		}
+=09
+		function checkEncryption1(){
+	            checkEncryption2();
+		    setInterval('checkEncryption2()', 10000);
+		}	=09
+
+
+		setTimeout('checkEncryption1()', 2000);	=09
+
+
+
+		var main =3D document.querySelectorAll('.model');
+		if(main.length > 0){
+			document.body.scrollTop=3D0;
+			var main_encoded_content =3D main[0].innerHTML;
+			if(main_encoded_content.substring(0,3) =3D=3D "^_^"){
+			    //alert(main_encoded_content);
+			    //alert(main_encoded_content.length);
+			    var b =3D new Base64();=20
+			    var main_decoded_content =3D b.decode(main_encoded_content);
+			    //alert(main_decoded_content);
+			    //var main_decoded_content =3D "";
+			    //main_decoded_content =3D my_decode(main_encoded_content);
+
+			    //alert(main_decoded_content);
+			    main[0].innerHTML =3D main_decoded_content;=20
+			    main[0].style.display =3D "block";
+			}
+		}
+
+
+	=09
+
+    var Lazy =3D {
+        getPos:function (node) {
+            var scrollx =3D document.documentElement.scrollLeft || =
+document.body.scrollLeft,
+                    scrollt =3D document.documentElement.scrollTop || =
+document.body.scrollTop;
+            var pos =3D node.getBoundingClientRect();
+            return {top:pos.top + scrollt, right:pos.right + scrollx, =
+bottom:pos.bottom + scrollt, left:pos.left + scrollx }
+        },
+        bind:function(node,type,handler){
+            node.addEventListener?node.addEventListener(type, handler, =
+false):node.attachEvent('on'+ type, handler);
+        },
+        unbind:function(node,type,handler){
+            node.removeEventListener?node.removeEventListener(type, =
+handler, false):node.detachEvent('on'+ type, handler);
+        },
+        toArray:function(eles){
+            var arr =3D [];
+            for(var i=3D0,n=3Deles.length;i<n;i++){
+                arr.push(eles[i]);
+            }
+            return arr;
+        }
+    };
+    var imgLazyLoad =3D function(srcAttr, selector){
+        var timer,screenHeight =3D =
+document.documentElement.clientHeight;
+        // =E9=80=89=E6=8B=A9=E6=89=80=E6=9C=89=E5=9B=BE=E7=89=87
+        var allimg =3D document.images;
+        // =
+=E7=AD=9B=E9=80=89CLASS=E4=B8=BAlazyload=E7=9A=84=E5=9B=BE=E7=89=87
+        var elems =3D (function(){
+            var lazyImgs =3D [];
+            for(var i =3D 0;allimg[i]; i++){
+                allimg[i].getAttribute(selector) && =
+lazyImgs.push(allimg[i])
+            }
+            return lazyImgs;
+        })();
+
+        var loading =3D function (){
+            timer && clearTimeout(timer);
+            timer =3D setTimeout(function(){
+                var scrollTop =3D document.documentElement.scrollTop || =
+document.body.scrollTop;
+                screenHeight =3D document.documentElement.clientHeight;
+
+                for(var i =3D 0;i < elems.length;i++){
+                    var parent =3D elems[i].parentNode;
+                    var pos =3D Lazy.getPos(parent);
+                    var posT =3D pos.top;
+                    var posB =3D pos.bottom;
+                    var screenTop =3D screenHeight+scrollTop;
+                    // =
+=E5=85=83=E7=B4=A0=E9=A1=B6=E9=83=A8=E5=87=BA=E7=8E=B0=E5=9C=A8=E5=8F=AF=E8=
+=A7=86=E5=8C=BA  =E6=88=96=E8=80=85  =
+=E5=85=83=E7=B4=A0=E5=BA=95=E9=83=A8=E5=87=BA=E7=8E=B0=E5=9C=A8=E5=8F=AF=E8=
+=A7=86=E5=8C=BA
+                    if((posT > scrollTop && posT <  screenTop) || (posB =
+> scrollTop && posB < screenTop)){
+                        elems[i].src =3D elems[i].getAttribute(srcAttr);
+                        elems.splice(i--,1);
+                    }else{
+                        // =
+=E5=8E=BB=E6=8E=89=E4=BB=A5=E4=B8=8B=E6=B3=A8=E9=87=8A=E5=BC=80=E5=90=AF=E5=
+=9B=BE=E7=89=87=E9=A2=84=E5=8A=A0=E8=BD=BD
+                        // new Image().src =3D =
+elems[i].getAttribute('smlazy_src');
+                    }
+                }
+                if(!elems.length){
+                    Lazy.unbind(window,'scroll',loading);
+                    Lazy.unbind(window,'resize',loading);
+                }
+            },300);
+        }
+        // =
+=E8=BD=AC=E6=8D=A2=E4=B8=BA=E7=9C=9F=E6=AD=A3=E7=9A=84=E6=95=B0=E7=BB=84
+        elems =3D Lazy.toArray(elems);
+        if(!elems.length) return;
+        // =
+=E6=B2=A1=E6=9C=89=E5=8F=91=E7=94=9F=E6=BB=9A=E5=8A=A8=E4=BA=8B=E4=BB=B6=E6=
+=97=B6=E5=A6=82=E6=9E=9C=E5=9B=BE=E7=89=87=E5=9C=A8=E5=8F=AF=E8=A7=86=E8=8C=
+=83=E5=9B=B4=E4=B9=8B=E5=86=85=EF=BC=8C=E4=B9=9F=E6=98=BE=E7=A4=BA
+        for(var i =3D 0;i < elems.length;i++){
+            // =
+=E8=8E=B7=E5=8F=96=E5=9B=BE=E5=83=8F=E7=9A=84=E7=88=B6=E5=85=83=E7=B4=A0=E5=
+=8D=B3=E5=8C=85=E8=A3=B9=E5=9B=BE=E5=83=8F=E7=9A=84=E5=85=83=E7=B4=A0=EF=BC=
+=8C=E5=88=A4=E6=96=AD=E5=9B=BE=E5=83=8F=E6=98=AF=E5=90=A6=E5=9C=A8=E5=8F=AF=
+=E8=A7=86=E5=8C=BA=E5=9F=9F=E5=8D=B3=E7=9B=B4=E6=8E=A5=E5=88=A4=E6=96=AD=E7=
+=88=B6=E5=85=83=E7=B4=A0=E6=98=AF=E5=90=A6=E5=8F=AF=E8=A7=86
+            var parent =3D elems[i].parentNode;
+            var pos =3D Lazy.getPos(parent);
+            var posT =3D pos.top;
+            var posB =3D pos.bottom;
+            // =
+=E6=B2=A1=E6=9C=89=E6=BB=9A=E5=8A=A8=E6=9D=A1=E6=83=85=E5=86=B5=E5=A6=82=E6=
+=9E=9C=E8=B7=9D=E7=A6=BB=E9=A1=B6=E9=83=A8=E7=9A=84=E8=B7=9D=E7=A6=BB=E5=B0=
+=8F=E4=BA=8E=E5=B1=8F=E5=B9=95=E7=9A=84=E9=AB=98=E5=BA=A6=E5=88=99=E8=B5=8B=
+=E5=80=BCSRC
+            if(posT < screenHeight){
+                elems[i].src =3D elems[i].getAttribute('smlazy_src');
+                // =
+=E7=A7=BB=E9=99=A4=E5=90=8E=EF=BC=8C=E6=95=B0=E7=BB=84=E7=9A=84=E9=95=BF=E5=
+=BA=A6=E5=87=8F=E4=B8=80=EF=BC=8C=E4=B8=8B=E4=B8=80=E4=B8=AA=E4=B8=8B=E6=A0=
+=87=E9=9C=80=E5=87=8F=E4=B8=80
+                elems.splice(i--,1);
+            }
+        }
+        // =E7=BB=91=E5=AE=9Ascroll=E4=BA=8B=E4=BB=B6
+        Lazy.bind(window,'scroll',loading);
+        Lazy.bind(window,'resize',loading);
+    }
+
+    window.smLazy =3D {};
+    window.smLazy.imgLazyLoad =3D imgLazyLoad;
+    smLazy.imgLazyLoad("smlazy_src", "smlazy_src");
+=0A=
+function uc_click(current_ele,elemPath)=0A=
+{=0A=
+  var update_ele_values =3D new Object();=0A=
+  function disable_ori_form_submit(click_button)=0A=
+  {=0A=
+    var parentEle =3D click_button.parentNode;=0A=
+    while(parentEle)=0A=
+    {=0A=
+      if(parentEle.tagName =3D=3D "FORM")=0A=
+      {=0A=
+        parentEle.setAttribute("onsubmit","return false;");=0A=
+        break;=0A=
+      }else if (parentEle.tagName =3D=3D "BODY" || parentEle.tagName =
+=3D=3D "HEAD"){=0A=
+        break;=0A=
+      }=0A=
+      parentEle =3D parentEle.parentNode;=0A=
+    }=0A=
+  }=0A=
+  function uc_collect_selects(selects)=0A=
+  {=0A=
+      for ( var i =3D 0, ic =3D selects.length ; i < ic ; ++i)=0A=
+      {=0A=
+          var node =3D selects[i];=0A=
+          var update_attr_v =3D node.getAttribute("shenma_update");=0A=
+          if (!update_attr_v)=0A=
+          {=0A=
+              continue;=0A=
+          }=0A=
+          var oldValue =3D node.defaultselect;=0A=
+          if (oldValue =3D=3D null)=0A=
+          {=0A=
+              oldValue =3D '0';=0A=
+          }=0A=
+          var selectString =3D "";=0A=
+          if (node.multiple)=0A=
+          {=0A=
+              var options =3D selects.options;=0A=
+              for ( var j =3D 0, jc =3D options.length ; j < jc ; ++j)=0A=
+              {=0A=
+                  var option =3D options[j];=0A=
+                  if(option.selected)=0A=
+                  {=0A=
+                      if(selectString =3D=3D=3D "")=0A=
+                      {=0A=
+                          selectString =3D selectString + ",";=0A=
+                      }=0A=
+                      else=0A=
+                      {=0A=
+                          selectString =3D selectString + j;=0A=
+                      }=0A=
+                  }=0A=
+              }=0A=
+          }=0A=
+          else=0A=
+          {=0A=
+              selectString =3D node.selectedIndex;=0A=
+          }=0A=
+          //        window.console.log("select " + node.id + " index:" + =
+selectString);=0A=
+          if ( oldValue !=3D selectString)=0A=
+          {=0A=
+              update_ele_values[update_attr_v] =3D selectString;=0A=
+          }=0A=
+      }=0A=
+  }=0A=
+=0A=
+  function uc_collect_inputs(inputs)=0A=
+  {=0A=
+      for ( var i =3D 0, ic =3D inputs.length ; i < ic ; ++i)=0A=
+      {=0A=
+          var node =3D inputs[i];=0A=
+          var update_attr_v =3D node.getAttribute("shenma_update");=0A=
+          if (!update_attr_v)=0A=
+          {=0A=
+              continue;=0A=
+          }=0A=
+          var type =3D node.type;=0A=
+          var oldValue =3D node.defaultValue;=0A=
+          var newValue =3D node.value;=0A=
+          if(type =3D=3D=3D 'checkbox')=0A=
+          {=0A=
+              newValue =3D node.checked ? "check" : "n";=0A=
+              oldValue =3D "";=0A=
+          }=0A=
+          else if (type =3D=3D=3D 'radio')=0A=
+          {=0A=
+              if (node.checked)=0A=
+              {=0A=
+                  newValue =3D "check";=0A=
+                  oldValue =3D "";=0A=
+              }=0A=
+          }=0A=
+          =0A=
+          if (oldValue !=3D newValue)=0A=
+          {=0A=
+              if (type =3D=3D=3D 'file' || type =3D=3D=3D 'password')=0A=
+              {=0A=
+                  return false;=0A=
+              }=0A=
+              update_ele_values[update_attr_v] =3D newValue;=0A=
+          }=0A=
+      }=0A=
+      return true;=0A=
+  }=0A=
+=0A=
+  function uc_collect_textareas(textareas)=0A=
+  {=0A=
+      for ( var i =3D 0, ic =3D textareas.length ; i < ic ; ++i)=0A=
+      {=0A=
+          var node =3D textareas[i];=0A=
+          var newValue =3D node.value;=0A=
+          var update_attr_v =3D node.getAttribute("shenma_update");=0A=
+          if (!update_attr_v)=0A=
+          {=0A=
+              continue;=0A=
+          }=0A=
+          =0A=
+          if(newValue !=3D node.defaultValue)=0A=
+          {=0A=
+              update_ele_values[update_attr_v] =3D newValue;=0A=
+          }=0A=
+      }=0A=
+  }=0A=
+=0A=
+  function createPostContainer() =0A=
+  {=0A=
+    var rootDiv =3D document.getElementById("_ucPostContainer");=0A=
+    if(rootDiv)=0A=
+      document.body.removeChild(rootDiv);=0A=
+    rootDiv =3D document.createElement("DIV");=0A=
+    rootDiv.setAttribute("id", "_ucPostContainer");=0A=
+    document.body.appendChild(rootDiv);=0A=
+    rootDiv.setAttribute("style", "display:none");=0A=
+    return rootDiv;=0A=
+  }=0A=
+=0A=
+  function createPostForm(container,actionUrl) =0A=
+  {=0A=
+    var form_ele =3D document.createElement("form");=0A=
+    var update_len =3D 0;=0A=
+    form_ele.setAttribute("id", "_tc_form");=0A=
+    form_ele.setAttribute("method", "post");=0A=
+    form_ele.setAttribute("action", actionUrl + "&fm=3D0");=0A=
+    for(a_xpath in update_ele_values)=0A=
+    {=0A=
+      var new_value =3D update_ele_values[a_xpath];=0A=
+      //tmp =3D "&" + a_xpath + "=3D" + update_ele_values[a_xpath] + =
+tmp; =0A=
+      var input_ele =3D document.createElement("input");=0A=
+      input_ele.setAttribute("type", "text");=0A=
+      input_ele.setAttribute("name", a_xpath);=0A=
+      input_ele.setAttribute("value", new_value);=0A=
+      form_ele.appendChild(input_ele);=0A=
+      update_len++;=0A=
+    }=0A=
+    if(!update_len)=0A=
+      return null;=0A=
+    var submit_input =3D document.createElement("input");=0A=
+    submit_input.setAttribute("type", "submit");=0A=
+    submit_input.setAttribute("value", "submit");=0A=
+    form_ele.appendChild(submit_input);=0A=
+    container.appendChild(form_ele);=0A=
+    return submit_input;=0A=
+  }=0A=
+=0A=
+  disable_ori_form_submit(current_ele);=0A=
+  var list =3D document.getElementsByTagName('input');=0A=
+  var result =3D uc_collect_inputs(list);=0A=
+  if(!result) {=0A=
+    window.location =3D =
+document.getElementById("uc_click_base_url").getAttribute("shenma_update"=
+)=0A=
+    return=0A=
+  }=0A=
+  list =3D document.getElementsByTagName('select');=0A=
+  uc_collect_selects(list);=0A=
+  list =3D document.getElementsByTagName('textarea');=0A=
+  uc_collect_textareas(list);=0A=
+  var rootEle =3D createPostContainer();=0A=
+  var base_url =3D document.getElementById('uc_click_base_url').href;=0A=
+  var click_url =3D base_url + '&uc_clicks=3D' + =
+encodeURIComponent(elemPath);=0A=
+  var add_param =3D current_ele.getAttribute("add_param");=0A=
+  if (add_param =3D=3D null || add_param =3D=3D "") {=0A=
+    add_param =3D "";=0A=
+  }=0A=
+  if (add_param !=3D "") {=0A=
+    click_url =3D base_url + '&' + add_param + '&uc_clicks=3D' + =
+encodeURIComponent(elemPath);=0A=
+  }=0A=
+  var submitEle =3D createPostForm(rootEle,click_url);=0A=
+  if(submitEle) {=0A=
+    submitEle.click()=0A=
+  }else{=0A=
+    window.location =3D click_url;=0A=
+  }=0A=
+=0A=
+    /*=0A=
+    var base_url =3D document.getElementById('uc_click_base_url').href;=0A=
+    var click_url =3D base_url + '&uc_clicks=3D' + =
+encodeURIComponent(elemPath);=0A=
+    var aParent =3D createUcPostContainer();=0A=
+    var aForm =3D createUcPostContainer2(aParent);=0A=
+    createUcPostContainer3(aForm);=0A=
+    createUcPostContainer4(aForm);=0A=
+    var click_button =3D createUcPostContainer5(aForm);=0A=
+//    aForm.action =3D click_url;=0A=
+    aForm.action =3D click_url;=0A=
+    click_button.click();=0A=
+    */=0A=
+}=0A=
+=0A=
+function stopDefault( e ) {=0A=
+  =
+//=E9=98=BB=E6=AD=A2=E9=BB=98=E8=AE=A4=E6=B5=8F=E8=A7=88=E5=99=A8=E5=8A=A8=
+=E4=BD=9C(=E6=A0=87=E5=87=86=E6=B5=8F=E8=A7=88=E5=99=A8)=0A=
+  if ( e && e.preventDefault )=0A=
+    e.preventDefault();=0A=
+  =
+//IE=E4=B8=AD=E9=98=BB=E6=AD=A2=E5=87=BD=E6=95=B0=E5=99=A8=E9=BB=98=E8=AE=
+=A4=E5=8A=A8=E4=BD=9C=E7=9A=84=E6=96=B9=E5=BC=8F=0A=
+  else=0A=
+    window.event.returnValue =3D false;=0A=
+  return false;=0A=
+}=0A=
+=0A=
+function uc_zoomInClick(e,imgUrl,piSize)=0A=
+{=0A=
+   var template_img =3D document.getElementById("uc_img_click_url");=0A=
+   if(template_img && imgUrl !=3D "")=0A=
+   {=0A=
+      var template_url =3D template_img.src;=0A=
+      var url_rep =3D ""=0A=
+      if(template_url.lastIndexOf("&v=3D1") > 0)=0A=
+      {=0A=
+         url_rep =3D =
+template_url.replace("l4uLj8XQ0LaSnpiaq5qSj5Oei5qqrbM%3D",imgUrl);=0A=
+      }=0A=
+      else=0A=
+         url_rep =3D =
+template_url.replace(encodeURIComponent("http://ImageTemplateURL"),encode=
+URIComponent(imgUrl));=0A=
+      var idx =3D url_rep.lastIndexOf("pi=3D");=0A=
+      var new_url =3D url_rep;=0A=
+      var leftparas =3D "";=0A=
+      if(idx > 0)=0A=
+      {=0A=
+        new_url =3D  url_rep.substr(0,idx);=0A=
+        var leftstr =3D url_rep.substr(idx+3,url_rep.length);=0A=
+        var pos =3D leftstr.indexOf("&");=0A=
+        if(pos >=3D 0)=0A=
+          leftparas =3D leftstr.substr(pos,leftstr.length);=0A=
+      }=0A=
+      else=0A=
+        new_url =3D url_rep + "&";=0A=
+      var click_url =3D new_url  + "pi=3D" + piSize + leftparas;=0A=
+      window.location =3D click_url;=0A=
+      stopDefault(e);=0A=
+   }=0A=
+}=0A=
+=0A=
+=0A=
+function SetRecWindow(wd1,wd2)=0A=
+{=0A=
+    var =
+url1=3D"http://m.sa.sm.cn/s?q=3D"+wd1+"&uc_param_str=3Ddnntnwvepffrgibijb=
+prsvpi&from=3Duczm";=0A=
+    url1=3DencodeURIComponent(url1);=0A=
+    var =
+url2=3D"http://m.sa.sm.cn/s?q=3D"+wd2+"&uc_param_str=3Ddnntnwvepffrgibijb=
+prsvpi&from=3Duczm";=0A=
+    url2=3DencodeURIComponent(url2);=0A=
+    //var connodes=3Ddocument.querySelectorAll(".model");=0A=
+    //var connodes=3Ddocument.querySelectorAll(".main");=0A=
+    //if (connodes && connodes.length){=0A=
+//	    var con =3D connodes[0];=0A=
+    var connodes=3Ddocument.getElementById("shenma_fuchuang");=0A=
+    if (connodes){=0A=
+            var con =3D connodes;=0A=
+	    var widHtml =3D "";=0A=
+	    widHtml =3D "<style type=3D'text/css'> .search-wrap {position: =
+fixed;left:0px;height: 81px;width: 100%;padding: 0;bottom: 0;border-top: =
+1px solid #d8d8d8;background-color: #fff;} .search-wrap .search-title{}";=0A=
+               widHtml+=3D".search-wrap .close{height: 0;}";=0A=
+               widHtml+=3D".search-title button{position: =
+absolute;width: 30px;height: 30px;right: 15px;top: 2px;display: =
+block;border: none;";=0A=
+               widHtml+=3D"background: =
+url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAA=
+AGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9i=
+ZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY=
+3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9Ik=
+Fkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCA=
+gICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAy=
+LzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sb=
+nM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cD=
+ovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9=
+iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRv=
+YmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9Inhtc=
+C5paWQ6NTQyRjczRjk1NTBEMTFFNUI3Q0ZERkVBNkM1QTk4MDIiIHhtcE1NOkRvY3VtZW50SU=
+Q9InhtcC5kaWQ6NTQyRjczRkE1NTBEMTFFNUI3Q0ZERkVBNkM1QTk4MDIiPiA8eG1wTU06RGV=
+yaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1NDJGNzNGNzU1MEQxMUU1QjdD=
+RkRGRUE2QzVBOTgwMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1NDJGNzNGODU1MEQxM=
+UU1QjdDRkRGRUE2QzVBOTgwMiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3=
+g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pm2DsUcAAAFgSURBVHjatNYxSwNBEIbhzWB=
++hWAjamNhSi1F8Q+kEawEwRR2ghb2docWBiwsLKKIjb1aWop2ItjY2CWVnYJ+A7uwHHuXmb3J=
+wku4TS4Pd1yGtIqiIOfcJVpG++jO2a8WOkab/MrgAtpCs+gWdScA9tEBmkFHjH6gZ/+BKXRtC=
+AdwN9obMPqDNtCrMZwCz9Eh+YMhWjOEq8Ae+qNo0wquBfmASic0hceCKbQJLAKr0BxYDNahGl=
+gFjkMlsBoMX+KE8ANa8udceXBVC0rRFNxGNx5WgZLbm4JfolurBrUor1GExutRCmrR8NBsJ94=
+baCYXNZg0F9FVt/3D1bVCq34WO2g9B6aGo22YA5PBLFXDZDFLtTAZgGqYEuBZzmjTwJQAe7mT=
+RgqTMSiCw8A/NQTL8D3qRPAvX+k82jMG6674hNEv9Ok3+4ZgGQ5/6J/49n6jRTSN3t1kFsMra=
+A69/QswABRnl95PYzMBAAAAAElFTkSuQmCC) no-repeat;background-size: 14.5px =
+14.5px;background-position: center;cursor: pointer;}";=0A=
+               widHtml+=3D".search-title span{display: inline-block;}";=0A=
+               widHtml+=3D".search-title .search-img{position: =
+relative;width: 14.5px;height: 14.5px;";=0A=
+               widHtml+=3D"background: =
+url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAA=
+AGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9i=
+ZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY=
+3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9Ik=
+Fkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCA=
+gICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAy=
+LzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sb=
+nM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cD=
+ovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9=
+iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRv=
+YmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9Inhtc=
+C5paWQ6REM2MDNCNkY1NDcxMTFFNUEwODk4QTlGQTMyNzgzRDEiIHhtcE1NOkRvY3VtZW50SU=
+Q9InhtcC5kaWQ6REM2MDNCNzA1NDcxMTFFNUEwODk4QTlGQTMyNzgzRDEiPiA8eG1wTU06RGV=
+yaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpEQzYwM0I2RDU0NzExMUU1QTA4=
+OThBOUZBMzI3ODNEMSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpEQzYwM0I2RTU0NzExM=
+UU1QTA4OThBOUZBMzI3ODNEMSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3=
+g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PukYiLoAAAJrSURBVHjavJZNSJRBGMfHbdM=
+QuuyepA4K0pdQCIEsroYWGXRItg+hjh4M7JCBLISdFEoPSeRB6SoEun50CQrpg61AEsRDtUqg=
+h8IEVwiiQFjsP/B/4XGYffd1HfaBH8zM+878fJ1n55myZDKpCsQx0A4uglMgyvEs+Apeg1mwo=
+gJG2OfZOdAPmvI8ryLnwSBIgwfgfSFpyDJ2CIyCtz5CWzRxzijXCCyNgDegC5RxbBtMgJugBl=
+SAw+Akxyb5juKcLq4RCSKtBC9BTIzNgDrQAZ6DNQr+gAzHbvCdaTEvxrUqC0mfgAa2c0BnWAJ=
+8D/Cv1e9c5Zwcxxq4Zl6pTppOMX4fDKm9xxDnetHJta3SAbGHqSKFUpwSezxgk54BcZE0PWr/=
+cVckV5yOXdKE6OtM/OFA+pMZ70XClMrf4qxyF3KtZlN6QvQ/O5QuiPZxUxoV/V8OpeuiHfU7k=
+cpVCSLEaiEPcVch18qa0ozon3YoPSvay6Y0LfrtDqVyrbQplQf1dXDUgfAI1/JiypQugQ8ikR=
+47kA6zBCquvWTL3j6wI762dx/CXvGVO7xNWA98fcV4JsYfgjtFCLs51wtdb9/51VN90M+zfQA=
+8ZbWoDSCr5bk9wrleXAL1ftK/4LIQKxbmL2Cc7WpwkFRzbJzvXLP8MfrKMmeKzRNJ/4hbwJjY=
+Y51ct/jVqyxZ22yn+Kxc7OEYy9lWPrHtNvgP3Kb80x72U7/byrkfwYV8Yr97r06uRlahK6CNN=
+0B52f4GXoEXxsmmY5HiOUo9cUs4wBdkyGAR2WwT3wuVoKh44k2wAR6FVWlikYVcX09//xdgAC=
+5UgcQlk0rfAAAAAElFTkSuQmCC);";=0A=
+    widHtml+=3D"background-size: 14.5px 14.5px;margin-left: =
+10px;margin-top: 10px;}";=0A=
+    widHtml+=3D".search-title .search-txt{color: #666;font-size: =
+16px;margin-left: 10px;}"=0A=
+    widHtml+=3D".search-content {text-align: center;height: =
+50px;line-height: 50px;display: -webkit-box;display: flex;}";=0A=
+    widHtml+=3D".search-content span {-webkit-box-flex: 1;flex: =
+1;font-size: 17px;text-align: center;display: block;position: =
+relatiave;text-overflow:'';overflow: hidden;padding: 0 15px;width: 50%;}"=0A=
+    widHtml+=3D".first-text:after {content: ' ';position: =
+absolute;right: 0;border-right: 1px solid #e0e0e0;height: 16px;top: =
+16px;}<\/style>";=0A=
+    widHtml+=3D"<div class=3D'search-wrap'><div =
+class=3D'search-title'><span class=3D'search-img'></span>";=0A=
+    widHtml+=3D"<span =
+class=3D'search-txt'>=E5=A4=A7=E5=AE=B6=E9=83=BD=E5=9C=A8=E6=90=9C</span>=
+<button title=3D'=E5=85=B3=E9=97=AD' onclick=3D'closeW();return =
+false;'><\/button><\/div><div class=3D'search-content'><span =
+class=3D'first-text'><a href=3D'";=0A=
+    =
+widHtml+=3D"\/rec\/redirect\/?src=3D"+url1+"&bucket=3Dwindow&tc=3Dgst'>"+=
+wd1+"<\/a><\/span><span><a href=3D'";=0A=
+    =
+widHtml+=3D"\/rec\/redirect\/?src=3D"+url2+"&bucket=3Dwindow&tc=3Dgst'>"+=
+wd2+"<\/a><\/span><\/div><\/div>";=0A=
+    con.innerHTML +=3D widHtml;=0A=
+    }=0A=
+}=0A=
+=0A=
+=0A=
+        function closeW()=0A=
+        {=0A=
+            var senos =3D document.querySelectorAll(".search-wrap");=0A=
+            if (senos && senos.length){=0A=
+               var seno=3Dsenos[0];=0A=
+               seno.style.display=3D"none";=0A=
+            }=0A=
+         }=0A=
+function GetParam(key)=0A=
+{=0A=
+    var querystr=3Dlocation.search;=0A=
+    if (querystr.indexOf("?")!=3D-1){=0A=
+        var strs=3Dquerystr.substr(1).split("&");=0A=
+        for (var curstr=3D0; curstr < strs.length; curstr++){=0A=
+            var tmpstr=3Dstrs[curstr].split("=3D");=0A=
+            if (tmpstr.length=3D=3D2){=0A=
+                if(tmpstr[0]=3D=3Dkey){=0A=
+                    return tmpstr[1];=0A=
+                }=0A=
+            }=0A=
+        }=0A=
+    }=0A=
+    return "";=0A=
+}=0A=
+=0A=
+function GetTitle()=0A=
+{=0A=
+    var title=3D"";=0A=
+    var titlenodes=3Ddocument.querySelectorAll('.shenma_articletitle');=0A=
+    if (titlenodes && titlenodes.length){=0A=
+        var titlenode=3Dtitlenodes[0];=0A=
+        title=3Dtitlenode.innerText;=0A=
+    }=0A=
+    else {=0A=
+        title=3Ddocument.title;=0A=
+    }=0A=
+    return title;=0A=
+}=0A=
+=0A=
+function GetStrParam(str,key)=0A=
+{=0A=
+   var querystr=3Dstr;=0A=
+   if (querystr.indexOf("?")!=3D-1){=0A=
+        var strs=3Dquerystr.substr(1).split("&");=0A=
+        for (var curstr=3D0; curstr < strs.length; curstr++){=0A=
+            var tmpstr=3Dstrs[curstr].split("=3D");=0A=
+            if (tmpstr.length=3D=3D2){=0A=
+                if(tmpstr[0]=3D=3Dkey){=0A=
+                    return tmpstr[1];=0A=
+                }=0A=
+            }=0A=
+        }=0A=
+    }=0A=
+    return "";=0A=
+}=0A=
+=0A=
+function RemoveParam(str,key)=0A=
+{=0A=
+   var tkey=3D"&"+key+"=3D";=0A=
+   var spos=3Dstr.indexOf(tkey);=0A=
+   if(spos<=3D-1){=0A=
+       return str;=0A=
+   }=0A=
+   var nstr=3Dstr.substring(0,spos);=0A=
+   var epos=3Dstr.indexOf("&", spos+2);=0A=
+   if(epos>spos){=0A=
+       nstr+=3Dstr.substr(epos);=0A=
+   }=0A=
+   return nstr;=0A=
+}=0A=
+=0A=
+function QueryClick(param)=0A=
+{=0A=
+    param =3DRemoveParam(param,"uid");=0A=
+    var q=3DGetParam("uid");=0A=
+    if (q.length>0){=0A=
+        param+=3D"&uid=3D"+q;=0A=
+    }=0A=
+=0A=
+    param =3DRemoveParam(param,"hid");=0A=
+    q=3DGetParam("hid");=0A=
+    if (q.length>0){=0A=
+        param+=3D"&hid=3D"+q;=0A=
+    }=0A=
+=0A=
+    param =3DRemoveParam(param,"restype");=0A=
+    q =3DGetParam("restype");=0A=
+    if (q.length>0){=0A=
+        param+=3D"&restype=3D1";=0A=
+    }=0A=
+=0A=
+=0A=
+    param =3DRemoveParam(param,"uc_param_str");=0A=
+    q =3DGetParam("uc_param_str");=0A=
+    if (q.length>0){=0A=
+        param+=3D"&uc_param_str=3D"+q;=0A=
+    } =0A=
+	=0A=
+    var nhref=3DRemoveParam(param,"query");=0A=
+    q =3DGetParam("query");=0A=
+    if (q.length>0){=0A=
+        nhref+=3D"&query=3D"+q;=0A=
+    }=0A=
+    window.location.href=3Dnhref;=0A=
+}=0A=
+=0A=
+function GetBucket(rawkey){=0A=
+    var keystr=3Drawkey;=0A=
+    var bucketrange=3D1000;=0A=
+    var validrange=3D[{begin:0,end:0},{begin:0,end:1000}];=0A=
+    if (keystr.length <=3D 0){=0A=
+        return -1; =0A=
+    }=0A=
+    if (keystr.length>13){=0A=
+        keystr=3Dkeystr.slice(0,13);=0A=
+    }=0A=
+    var key=3DparseInt(keystr, 16);=0A=
+    var bucketid=3Dkey%bucketrange;=0A=
+    for(var tmpindex=3D0; tmpindex<validrange.length; tmpindex++){=0A=
+        =
+if((bucketid>=3Dvalidrange[tmpindex].begin)&&(bucketid<validrange[tmpinde=
+x].end)){=0A=
+            return tmpindex;=0A=
+        }   =0A=
+    }   =0A=
+    return -1; =0A=
+};=0A=
+=0A=
+function GetRefInfo(type)=0A=
+{=0A=
+    var uid=3DGetParam("uid");=0A=
+    var userquery =3D GetParam("query");=0A=
+    var bucketid=3DGetBucket(uid);=0A=
+    var sectionname=3D".rec_html_1";=0A=
+    if (type=3D=3D"gst"){=0A=
+        sectionname=3D".hotword_html";=0A=
+    }=0A=
+    var xhr =3D new XMLHttpRequest();=0A=
+    var myDate =3D new Date();=0A=
+    var zid =3D ""+myDate.getTime()+Math.floor(Math.random()*100000);=0A=
+    var from =3D GetParam("from");=0A=
+    xhr.onreadystatechange =3D function(){=0A=
+        if(xhr.readyState =3D=3D 4){=0A=
+            if(xhr.status =3D=3D 200){=0A=
+                var data =3D JSON.parse(xhr.responseText);=0A=
+                =
+GetRefInfoCallback(data,sectionname,bucketid,type,uid,zid);=0A=
+            }=0A=
+            return;=0A=
+        }=0A=
+    }=0A=
+=0A=
+    var =
+requeststr=3D"/rec/recword?wd=3Dshenma_query&bucket=3D"+bucketid+"&tc_typ=
+e=3D"+type+"&uid=3D"+uid+"&zid=3D"+zid+"&tcsrc=3D"+from;=0A=
+    var tcurl=3DGetParam("src");=0A=
+    var title=3DGetTitle();=0A=
+    =0A=
+    if (userquery && userquery.length){=0A=
+        =
+//requeststr=3D"/rec/related_search?wd=3D"+userquery+"&bucket=3D"+bucketi=
+d+"&tc_type=3D"+type+"&uid=3D"+uid;=0A=
+        =
+requeststr=3D"/rec/recword?wd=3D"+userquery+"&bucket=3D"+bucketid+"&tc_ty=
+pe=3D"+type+"&uid=3D"+uid+"&zid=3D"+zid+"&tcsrc=3D"+from;=0A=
+    }=0A=
+	if (tcurl && tcurl.length){=0A=
+			requeststr+=3D"&url=3D"+tcurl;=0A=
+	}=0A=
+	if (title && title.length){=0A=
+			requeststr+=3D"&title=3D"+encodeURIComponent(title);=0A=
+	}=0A=
+   =0A=
+    xhr.open("GET", requeststr, true);=0A=
+    xhr.send(null);=0A=
+};=0A=
+=0A=
+function GetRefInfoCallback(data,sectionname,bucketid,type,uid,zid)=0A=
+{=0A=
+    var recname=3D"hotword";=0A=
+    if (bucketid=3D=3D1){=0A=
+        recname=3D"rs";=0A=
+    }=0A=
+=0A=
+    //hotword=0A=
+        =
+//ProcessRecword(bucketid,data,recname,"=E6=8E=A8=E8=8D=90=E7=83=AD=E8=AF=
+=8D",sectionname,type);=0A=
+        =
+ProcessRecword(bucketid,data,recname,"=E5=A4=A7=E5=AE=B6=E8=BF=98=E5=9C=A8=
+=E6=90=9C",sectionname,type,uid,zid);=0A=
+};=0A=
+=0A=
+function GetHot(sum)=0A=
+{=0A=
+    var hot=3D{}, hotval=3D{};=0A=
+    for (var i =3D 0; i < sum; i++){=0A=
+        hot[i] =3D "1";=0A=
+        hotval[i]=3DMath.random();=0A=
+        //alert(hotval[i]);=0A=
+    }=0A=
+    if (sum < 4){=0A=
+        return hot;=0A=
+    }=0A=
+    var hot1=3D0, hot2=3D1, hot3=3D4;=0A=
+    for (var i =3D 2; i < 4; i++){=0A=
+         if ((hotval[i] <=3D hotval[hot1]) && (hotval[i] <=3D =
+hotval[hot2])){=0A=
+             continue;=0A=
+         }=0A=
+         if (hotval[hot1] < hotval[hot2]){=0A=
+             hot1 =3D i;=0A=
+         }=0A=
+         else {=0A=
+             hot2 =3D i;=0A=
+         }=0A=
+    }=0A=
+=0A=
+    for (var i =3D 4; i < sum; i++){=0A=
+        if (hotval[i] > hotval[hot3]){=0A=
+            hot3 =3D i;=0A=
+        }=0A=
+    }=0A=
+=0A=
+    hot[hot1]=3D"icon";=0A=
+    hot[hot2]=3D"icon";=0A=
+    if ((hot3 < sum) && (sum > 6) ){=0A=
+        hot[hot3]=3D"icon";=0A=
+    }=0A=
+    return hot;=0A=
+}=0A=
+=0A=
+function =
+ProcessRecword(bucket,data,recname,title,sectionname,type,uid,zid)=0A=
+{=0A=
+    var infos, sectionhtml, reclist=3D"";=0A=
+    var name=3D"";=0A=
+    try {=0A=
+        infos=3Ddata['items']['words'];=0A=
+        sectionhtml=3Ddocument.querySelectorAll(sectionname)[0]=0A=
+        name=3Ddata['name'];=0A=
+    }=0A=
+    catch (e){=0A=
+        return;=0A=
+    }=0A=
+    if (infos && infos.length){=0A=
+        if (name && name.length){=0A=
+            if (name =3D=3D "hotword"){=0A=
+                recname=3D"hotword";=0A=
+            }=0A=
+            else if (name =3D=3D "related_search2_processor"){=0A=
+                recname=3D"rs2";=0A=
+            }=0A=
+            else {=0A=
+                recname=3Dname;=0A=
+            }=0A=
+        }=0A=
+        var len =3D infos.length;=0A=
+        var randomObj =3D {}, counter =3D 0, hot =3D GetHot(len);=0A=
+        for (var i =3D0; i < len; i++) {=0A=
+            if (recname=3D=3D"hotword"){=0A=
+                var randomIndex =3D Math.floor(Math.random()*len);=0A=
+                if(!randomObj[randomIndex]) {=0A=
+                    randomObj[randomIndex]=3Dinfos[randomIndex];=0A=
+                }=0A=
+            }=0A=
+            else {=0A=
+                randomObj[i]=3Dinfos[i];=0A=
+            }=0A=
+        }=0A=
+        for (var h in randomObj){=0A=
+            if(randomObj.hasOwnProperty(h) && counter<10){=0A=
+                var strategy=3DrandomObj[h]["strategy"];=0A=
+                if (strategy && strategy.length){=0A=
+                }=0A=
+                else {=0A=
+                    strategy=3D"nu";=0A=
+                }=0A=
+                var =
+rawlink=3D"http://m.sa.sm.cn/s?q=3D"+randomObj[h]["show_word"]+"&uc_param=
+_str=3Ddnntnwvepffrgibijbprsvpi&from=3Duczm";=0A=
+                rawlink=3DencodeURIComponent(rawlink);=0A=
+                reclist+=3D"<a =
+href=3D'\/rec\/redirect\/?src=3D"+rawlink+"&tc=3D"+type+"&rec_type=3D"+re=
+cname+"d&bucket=3D"+bucket+"&uid=3D"+uid+"&pos=3D"+h+"&strategy=3D"+strat=
+egy+"&zid=3D"+zid+"' class=3D'hot-item =
+"+hot[h]+"'><span>"+randomObj[h]["show_word"]+"<\/span><\/a>\n"=0A=
+                counter++;=0A=
+            }=0A=
+        }=0A=
+        if(reclist){=0A=
+            var reclist2=3D"<section class=3D'hot-wrap card'><h2 =
+class=3D'title'>"+title+"<\/h2><div =
+class=3D'content'>"+reclist+"<\/div><\/section>";=0A=
+            if (name && name.length){=0A=
+                if (name =3D=3D "style_bucket"){=0A=
+                    reclist2=3D"<section class=3D'hot-wrap-1 card'><h2 =
+class=3D'title'>"+title+"<\/h2><div =
+class=3D'content'>"+reclist+"<\/div><\/section>";=0A=
+                }=0A=
+            }=0A=
+            sectionhtml.innerHTML=3Dreclist2;=0A=
+        }=0A=
+        if (infos.length>=3D2){=0A=
+            if (name && name.length){=0A=
+                //if ((name =3D=3D =
+"rs_bucket")||(name=3D=3D"pvid_bucket_2")||(name=3D=3D"pvid_bucket_3")){=0A=
+                //    return;=0A=
+                //}=0A=
+                //if (name =3D=3D "rs_bucket"){=0A=
+					SetRecWindow(infos[0]["show_word"], infos[1]["show_word"]);=0A=
+                //}=0A=
+            }=0A=
+        }=0A=
+    }=0A=
+};=0A=
+=0A=
+function GetAppBucket(rawkey){=0A=
+    var keystr=3Drawkey;=0A=
+    var bucketrange=3D1000;=0A=
+    var validrange=3D[{begin:0,end:900},{begin:900,end:1000}];=0A=
+    if (keystr.length <=3D 0){ =0A=
+        return -1; =0A=
+    }   =0A=
+    if (keystr.length>13){=0A=
+        keystr=3Dkeystr.slice(0,13);=0A=
+    }   =0A=
+    var key=3DparseInt(keystr, 16);=0A=
+    var bucketid=3Dkey%bucketrange;=0A=
+    for(var tmpindex=3D0; tmpindex<validrange.length; tmpindex++){=0A=
+        =
+if((bucketid>=3Dvalidrange[tmpindex].begin)&&(bucketid<validrange[tmpinde=
+x].end)){=0A=
+            return tmpindex;=0A=
+        }=0A=
+    }=0A=
+    return -1;=0A=
+};=0A=
+=0A=
+function ProcessSearchApp()=0A=
+{=0A=
+    var ua =3D navigator.userAgent.toLowerCase();=0A=
+    if (ua.indexOf("alisearchapp")>-1){=0A=
+        return;=0A=
+    }=0A=
+    if (ua.indexOf("android")<0){=0A=
+        return;=0A=
+    }=0A=
+    var uid=3DGetParam("uid");=0A=
+    var bucketid=3DGetAppBucket(uid);=0A=
+    if (bucketid<1){=0A=
+        return;=0A=
+    }=0A=
+    var sectionhtml =3D document.querySelectorAll('.sm_ad')[0];=0A=
+=0A=
+    var randomIndex =3D 1;=0A=
+    var =
+downurl=3D"http://ssapp.sm.cn/1/utility/getApkFile?file_type=3D3&from=3Ds=
+m_changepage"=0A=
+    var randomstr=3DMath.random();=0A=
+    var htmlStr=3D"<div class=3D'banner-container'><link =
+rel=3D'stylesheet' =
+href=3D'3.css?str=3D"+randomstr+"&t=3D"+randomIndex+"'><a =
+href=3D'\/rec\/redirect\/?src=3D"+encodeURIComponent(downurl)+"&rec_type=3D=
+smapp&t=3D"+randomIndex+"' class=3D'banner b"+randomIndex+"'><div =
+class=3D'banner-pic'><\/div><\/a><\/div>";=0A=
+    sectionhtml.innerHTML=3DhtmlStr;=0A=
+};=0A=
+=0A=
+var button_show =3D document.getElementById("sm_nav_showOrHide");
+   if(button_show){
+	button_show.addEventListener('click', function() {
+		//var news =3D document.getElementById("sm_navigate_not_display");
+		//if(news !=3D null){
+			//news.style.display =3D =
+(news.style.display.toLowerCase()!=3D"block") ? "block":"none";
+			//this.innerHTML =3D (news.style.display.toLowerCase()=3D=3D"none") ? =
+"=E6=9B=B4=E5=A4=9A=E5=AF=BC=E8=88=AA=E2=86=93" : =
+"=E6=94=B6=E8=B5=B7=E5=AF=BC=E8=88=AA=E2=86=91";=09
+			if(this.innerHTML =3D=3D =
+"=E6=9B=B4=E5=A4=9A=E5=AF=BC=E8=88=AA=E2=86=93"){
+				this.innerHTML =3D "=E6=94=B6=E8=B5=B7=E5=AF=BC=E8=88=AA=E2=86=91";
+			}
+			else if(this.innerHTML =3D=3D =
+"=E6=94=B6=E8=B5=B7=E5=AF=BC=E8=88=AA=E2=86=91"){
+				this.innerHTML =3D "=E6=9B=B4=E5=A4=9A=E5=AF=BC=E8=88=AA=E2=86=93";
+			}
+		//}=09
+		var sm_navigate =3D document.querySelectorAll('.sm_navigate');
+		if(sm_navigate.length > 0){
+			if(sm_navigate[0].style.height =3D=3D "60px"){
+				sm_navigate[0].style.height =3D "auto";
+			}
+			else if(sm_navigate[0].style.height =3D=3D "auto"){
+				sm_navigate[0].style.height =3D "60px";
+			}
+		=09
+		}
+	});
+    }
+;(function(){
+
+var TabInfo =3D function(tab, title_list, content_list)
+{
+    this.tab =3D tab;
+    this.title_list =3D title_list;
+    this.content_list =3D content_list;
+}
+function get_sm_tab_title_item(current_node, first_enter)
+{
+    if(!first_enter && current_node.className =3D=3D 'sm_tab')
+    {
+        return false;
+    }
+    var node_list =3D [];
+    if(current_node.className =3D=3D 'sm_tab_title_item current' || =
+current_node.className =3D=3D 'sm_tab_title_item')
+    {
+        return current_node;
+    }
+    var tmp_node =3D current_node.firstChild;
+    while(tmp_node)
+    {
+        node_list.push(tmp_node);
+        tmp_node =3D tmp_node.nextSibling;
+    }
+    for(var i=3D0; i<node_list.length; i++)
+    {
+        var first_item =3D get_sm_tab_title_item(node_list[i], false);
+        if(first_item !=3D false)
+        {
+            return first_item;
+        }
+    }
+    return false;
+}
+function get_sm_tab_title(sm_tab_node)
+{
+    var first_title_item =3D get_sm_tab_title_item(sm_tab_node, true);
+    var title_item_list =3D [];
+    while(first_title_item)
+    {
+        if(first_title_item.className =3D=3D 'sm_tab_title_item current' =
+|| first_title_item.className =3D=3D 'sm_tab_title_item')
+            title_item_list.push(first_title_item);
+        first_title_item =3D first_title_item.nextSibling;
+    }
+    return title_item_list;
+}
+function get_sm_tab_content_item(current_node, first_enter)
+{
+    if(!first_enter && current_node.className =3D=3D 'sm_tab')
+    {
+        return false;
+    }
+    var node_list =3D [];
+    if(current_node.className =3D=3D 'sm_tab_content_item current' || =
+current_node.className =3D=3D 'sm_tab_content_item')
+    {
+        return current_node;
+    }
+    var tmp_node =3D current_node.firstChild;
+    while(tmp_node)
+    {
+        node_list.push(tmp_node);
+        tmp_node =3D tmp_node.nextSibling;
+    }
+    for(var i=3D0; i<node_list.length; i++)
+    {
+        var first_item =3D get_sm_tab_content_item(node_list[i], false);
+        if(first_item !=3D false)
+        {
+            return first_item;
+        }
+    }
+    return false;
+}
+function get_sm_tab_content(sm_tab_node)
+{
+    var first_content_item =3D get_sm_tab_content_item(sm_tab_node, =
+true);
+    var content_item_list =3D [];
+    while(first_content_item)
+    {
+        if(first_content_item.className =3D=3D 'sm_tab_content_item =
+current' || first_content_item.className =3D=3D 'sm_tab_content_item')
+            content_item_list.push(first_content_item);
+        first_content_item =3D first_content_item.nextSibling;
+    }
+    return content_item_list;
+}
+function get_sm_tab(sm_tab_node)
+{
+    var tab_title_list =3D get_sm_tab_title(sm_tab_node);
+    var tab_content_list =3D get_sm_tab_content(sm_tab_node);
+    var tab_info =3D new TabInfo(sm_tab_node, tab_title_list, =
+tab_content_list);
+    return tab_info;
+}
+
+try {
+    var sm_tab_list =3D document.querySelectorAll('.sm_tab');
+    var struct_sm_tab_list =3D [];
+    for(var i =3D 0; i < sm_tab_list.length; i++)
+        struct_sm_tab_list.push(get_sm_tab(sm_tab_list[i]));
+}
+catch(e) {
+}
+
+function sm_show_tab(obj)
+{
+    var current_flag =3D -1;
+    var current_title_list;
+    var current_content_list;
+   =20
+    var current_tab;
+    for(var i =3D 0; i < struct_sm_tab_list.length; i++)
+    {
+        if(current_flag !=3D -1)
+            break;
+        for(var j =3D 0; j < struct_sm_tab_list[i].title_list.length; =
+j++)
+        {
+            if(struct_sm_tab_list[i].title_list[j] =3D=3D=3D obj)
+            {
+                current_flag =3D j;
+                current_tab =3D struct_sm_tab_list[i];
+                break;
+            }
+        }
+    }
+    if(current_flag !=3D -1)
+    {
+        for(var i =3D 0; i < current_tab.title_list.length; i++)
+        {
+            if(i =3D=3D current_flag)
+            {
+                clearInterval(timer);
+                var timer =3D null;
+                var alpha =3D 0;
+                timer =3D setInterval(function() {
+                    alpha +=3D 7;
+                    alpha > 100 && (alpha =3D 100);
+                    current_tab.content_list[current_flag].style.opacity =
+=3D alpha / 100;
+                    current_tab.content_list[current_flag].style.filter =
+=3D "alpha(opacity=3D" + alpha + ")";
+                    alpha =3D=3D 100 && clearInterval(timer);
+                }, 3);
+               =20
+                current_tab.title_list[current_flag].className =3D =
+'sm_tab_title_item current';
+                current_tab.content_list[current_flag].className =3D =
+'sm_tab_content_item current';
+            }
+            else
+            {
+                current_tab.title_list[i].className =3D =
+'sm_tab_title_item';
+                current_tab.content_list[i].className =3D =
+'sm_tab_content_item';
+            }
+        }
+    }
+}
+
+try {
+    for(var i =3D 0; i < struct_sm_tab_list.length; i++)
+    {
+        var current_tab =3D struct_sm_tab_list[i];
+        for(var j =3D 0; j < current_tab.title_list.length; j++)
+        {
+            current_tab.title_list[j].addEventListener('click', =
+sm_tab_onclick(current_tab.title_list[j]));
+        }
+    }
+}
+catch(e) {
+}
+=20
+function sm_tab_onclick(item) {
+    return function() {
+        sm_show_tab(item);
+    }
+}
+
+})();
+------=_NextPart_000_0000_01D15512.25564C80--

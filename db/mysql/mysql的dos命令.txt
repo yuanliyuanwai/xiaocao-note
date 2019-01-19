@@ -1,0 +1,2 @@
+1.¥¥Ω®database  CREATE DATABASE IF NOT EXISTS yourdbname DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
+2.≤È—Ødatabase show databases

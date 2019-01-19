@@ -1,0 +1,24 @@
+-- oracle11g
+with temp as(
+  select 'China' nation ,'Guangzhou' city, 'a' area, 3 diff from dual union all
+  select 'China' nation ,'Shanghai' city, 'b' area, 2 diff from dual union all
+  select 'China' nation ,'Beijing' city, 'c' area, 1 diff from dual union all
+  select 'USA' nation ,'New York' city, 'd' area,  1 diff from dual union all
+  select 'USA' nation ,'Bostom' city, 'e' area,  2 diff from dual union all
+  select 'Japan' nation ,'Tokyo' city, 'f' area, 1 diff from dual 
+)
+select nation,listagg(city,',') within GROUP (order by diff), listagg(area,',') within GROUP (order by diff)
+from temp
+group by nation;
+
+-- oracle10g
+with temp as(
+  select 'China' nation ,'Guangzhou' city, 'a' area, 3 diff from dual union all
+  select 'China' nation ,'Shanghai' city, 'b' area, 2 diff from dual union all
+  select 'China' nation ,'Beijing' city, 'c' area, 1 diff from dual union all
+  select 'USA' nation ,'New York' city, 'd' area,  1 diff from dual union all
+  select 'USA' nation ,'Bostom' city, 'e' area,  2 diff from dual union all
+  select 'Japan' nation ,'Tokyo' city, 'f' area, 1 diff from dual 
+)
+select nation,wmsys.wm_concat(city), wmsys.wm_concat(area), wmsys.wm_concat(diff)
+from(select * from temp order by nation, diff) group by nation

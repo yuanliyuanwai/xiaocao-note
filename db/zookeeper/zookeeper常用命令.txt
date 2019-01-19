@@ -1,0 +1,23 @@
+zookeeper命令
+1.ls列出所有所有子节点信息
+2.stat列出节点的状态信息
+  cZxid创建事物id
+  ctime创建时间
+  mZxid最后一次更新事物id
+  mtime更新时间
+  pZxid子节点列表最后一次被修改的事物id（新增或删除子节点时更新）
+  cversion 子节点的版本号
+  dataVersion 数据版本号
+  aclVersion acl权限版本号
+  ephemeralOwner 创建临时节点的事物id持久节点固定为0
+  dataLength 当前阶段的数据 长度
+  numChildren 当前的子节点的个数
+3.get输出节点的数据内容
+4.ls2 = ls + stat
+5.create创建节点 -s顺序节点 -e临时节点
+6.delete删除节点，只能删除不含不节点的节点
+7.rmr 递归删除节点和子节点
+8.setquota 设置配额（子节点的个数-n或者是值的长度-b，当子节点超限之后只是打印警告日志）
+9.listquota 列举出节点的配额信息
+10.history列出所有历史指令
+11.redo重复执行

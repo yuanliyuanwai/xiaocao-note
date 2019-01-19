@@ -1,0 +1,4 @@
+1. 尽量避免使用 Left join 或 Right join,而用 Inner join
+2.  Left join 或 Right join 时，ON 会优先执行，where 条件在最后执行，所以在使用过程中，
+    条件尽可能的在 ON 语句中判断，减少 where 的执行
+3. 少用子查询，而用 join

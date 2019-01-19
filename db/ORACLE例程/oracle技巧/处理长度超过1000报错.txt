@@ -1,0 +1,100 @@
+protected String assemblerOriginalSqlText(String originalSqlText) {
+		String[] subSqls = originalSqlText
+				.split("(?i)[\\s+|)]where[\\s+|(]|[\\s+|)]and[\\s+|(]|[\\s+|)]or[\\s+|(]|[\\s+|)]when[\\s+|(]|[\\s+|)]between[\\s+|(]");
+		String functionAndColumn = "";// 函数+列名
+		String bindVariable = "";// 绑定变量名
+		String fullBindVariable = "";// 完整的绑定变量名
+		Object bindVariableValue = "";// 绑定变量值
+		List<String> metaConditions = new ArrayList<String>();
+		String suffix = ""; //后缀 处理(rc.subsectioncode in (:children))最后的括号
+		for (int i = 0; i < subSqls.length; ++i) {
+			String metaCondition = subSqls[i];
+			if (metaCondition.trim().length() == 0) {
+				continue;
+			} else if (metaCondition.indexOf(":") != -1) {// 含有绑定变量
+				Pattern pattern = Pattern.compile(":[a-zA-Z]+[a-zA-Z0-9]?");
+				Matcher match = pattern.matcher(metaCondition);
+				if (match.find()) {
+					fullBindVariable = match.group(0);
+					bindVariable = fullBindVariable.substring(1);
+					
+					bindVariableValue = parameters.get(bindVariable);
+					if (bindVariableValue == null
+							|| bindVariableValue.equals("")) {// 传入的值为空
+						parameters.remove(bindVariable);
+						originalSqlText = originalSqlText.replace(
+								metaCondition, " 1=1 ");
+					} else if (bindVariableValue instanceof List
+							&& ((List) bindVariableValue).size() == 0) {
+						parameters.remove(bindVariable);
+						originalSqlText = originalSqlText.replace(
+								metaCondition, " 1=1 ");
+					} else if (bindVariableValue instanceof List
+							&& ((List) bindVariableValue).size() >= 1000) {// 传入的list的长度超过1000
+						List<String> tempValues = (List<String>) bindVariableValue;
+						String preKeys[] = metaCondition.split("(?i)in");
+						if (preKeys.length == 2
+								&& preKeys[1].indexOf("(") != -1
+								&& preKeys[1].indexOf(")") != -1) {
+							functionAndColumn = metaCondition.substring(0,
+									metaCondition.indexOf(preKeys[1])) + " ";
+							suffix = metaCondition.split("\\(\\s*"+fullBindVariable+"\\s*\\)")[1];
+							Pattern sqlKeyPattern = Pattern.compile(
+									"not\\s+in", Pattern.CASE_INSENSITIVE);// sql关键字是in还是not
+																			// in如果是in则用or关键字拼接,not
+																			// in则用and
+																			// 关键字拼接
+							Matcher sqlKeyMatcher = sqlKeyPattern
+									.matcher(metaCondition);
+							String predicate = "";
+							if (sqlKeyMatcher.find()) {
+								predicate = "and";
+							} else {
+								predicate = "or";
+							}
+							originalSqlText = originalSqlText.replace(
+									metaCondition,
+									cutOverRangeList(functionAndColumn,
+											predicate, tempValues,
+											bindVariable, parameters,suffix));
+						}
+
+					}
+				}
+			}
+		}
+		return originalSqlText;
+
+	}
+
+	protected String cutOverRangeList(String functionAndColumn,
+			String predicate, List<String> tempValues, String bindVariable,
+			Map<String, Object> parameters,String suffix) {
+		int tempValuesSize = tempValues.size();
+		int floorHeight = 800;
+		int tempValuesFloor = (int) Math.ceil(tempValuesSize
+				/ (double) floorHeight);
+		String resultSql = "(";
+		for (int i = 0; i < tempValuesFloor; i++) {
+			if (i == 0) {
+				resultSql += functionAndColumn + " (:" + bindVariable + i + ")"+suffix+" ";
+			}else{
+				resultSql += " "+predicate + " " + functionAndColumn + " (:"
+						+ bindVariable + i + ")"+suffix+" ";
+			}
+			parameters.remove(bindVariable);
+			if (floorHeight * (i + 1) <= tempValuesSize) {
+				parameters.put(
+						bindVariable + i,
+						tempValues.subList(i * floorHeight, (i + 1)
+								* floorHeight));
+			} else {
+				parameters.put(bindVariable + i,
+						tempValues.subList(i * floorHeight, tempValuesSize));
+			}
+		}
+		resultSql += ") ";
+		return resultSql;
+
+	}
+	

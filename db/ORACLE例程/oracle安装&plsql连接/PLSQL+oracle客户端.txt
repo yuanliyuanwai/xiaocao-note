@@ -1,0 +1,25 @@
+首先将下载的Oracle客户端的压缩包解压到一个路径，在本机上解压到了E:\OracleClient下边，所以，实际上Oracle客户端的路径是E:\OracleClient\instantclient_10_2
+然后进入instantclient_10_2文件夹，新建一个network文件夹，并在network文件夹下新建admin文件夹，在admin文 件夹中新建名为tnsnames.ora文件，这个文件是用来配置连接远程数据库的登录信息的（客户端软件都会从这个相对路径下的文件中获取连接数据库的 信息），内容如下：
+databasename =
+    (DESCRIPTION =
+      (ADDRESS_LIST =
+        (ADDRESS = (PROTOCOL = TCP)(HOST = ip address)(PORT = 1521))
+      )
+      (CONNECT_DATA =
+        (SERVICE_NAME = database name)
+      )
+    )
+例如我链接实验室数据库的对应文件内容是：
+TCM =
+    (DESCRIPTION =
+      (ADDRESS_LIST =
+        (ADDRESS = (PROTOCOL = TCP)(HOST = *.*.*.*)(PORT = 1521))
+      )
+      (CONNECT_DATA =
+        (SERVICE_NAME = TCM)
+      )
+    )
+IP我就不写出来了，我所用的数据库名为TCM，so……
+
+然后安装PL/SQL Developer，过程是傻瓜式的。进入PL/SQL后（开始进入时会要求登录数据库，但是现在PL/SQL现在还找不到你的Oracle客户端，所以 登录是不会成功的，但是可以进入软件），选择Tools->Preferences，在Oracle Home OCI Library两栏中分别填入Oracle客户端的路径和OCI文件的路径（oci.dll文件直接在instantclient_10_2文件夹下）， 所以我在这两个选项中填写的内容是“E:\OracleClient\instantclient_10_2”和“E:\OracleClient \instantclient_10_2\oci.dll”。这时再登录就可以登录成功了。如若还不行就重启一下PL/SQL。
+
