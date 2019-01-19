@@ -1,0 +1,17 @@
+问题描述：
+LINUX安装时候选择的是中文，SSH 连接LINUX,中文出现乱码
+问题原因：
+此种情况的乱码，一般都是终端和服务器编码不一致造成的，问题关键是搞清楚两者的编码格式，然后改成一致即可。
+SSH使用的是本地编码，比如windows是GBK,而LINUX服务器编码是UTF-8，由于编码不一致导致中文出现乱码。
+解决方案：
+1）在/etc/sysconfig/i18N下修改配置文件如下：
+LANG="zh_CN.GB18030"
+SUPPORTED="zh_CN.GB18030:zh_CN:zh:en_US.UTF-8:en_US:en"
+SYSFONT="latarcyrheb-sun16" 
+保存之后，SSH重新登录既可以显示中文了
+注意：LANG 设置当前系统的语言环境变量，SUPPORTED 设置系统预置语言支持，SYSFONT定义控制台终端字体
+2）无权限修改/etc/sysconfig/i18N时，执行如下命令
+#export LANG=C
+#export LC_ALL=zh_CN.GBK
+#export LANG=zh_CN.GBK
+3）使用其他可以选择编码的工具，比如PuTTy

@@ -1,0 +1,13 @@
+从VirtualBox中克隆(clone)了一个CentOS 6的虚拟机，启动之后发现网卡没有启动。于是重启一下network服务，发现提示错误信息“Device eth0 does not seem to be present, delaying initialization.”
+解决方法：
+
+1) 必须确认克隆(clone)的时候勾选了[重新初始化MAC]选项。
+
+2）打开/etc/udev/rules.d/70-persistent-net.rules，里面记录了重新初始化后的MAC地址，拷贝之。
+
+3）编辑/etc/sysconfig/network-scripts/下的ifcfg-eth*, 把拷贝的MAC修改进去。
+4）使用 start_udev 命令重新检测硬件；
+4）用 service network restart 命令重启下网络。
+
+故障原因
+70-persistent-net.rules这个文件确定了网卡与MAC地址的绑定，克隆了一个新主机之后，系统发现MAC地址发生了变化，就认为是新增了一块网卡，所以就把它标记为eth1追加进70-persistent-net.rules这个文件，但与母机MAC地址绑定的eth0实际上已经不存在了，所以出现标题所示的错误。

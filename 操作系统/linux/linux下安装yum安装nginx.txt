@@ -1,0 +1,136 @@
+Ubuntu下安装nginx，直接apt-get install nginx就行了，很方便。
+
+但是今天装了CentOS6.2，直接yum install nginx不行，要先处理下源，下面是安装完整流程，也十分简单：
+
+1、CentOS 6，先执行：
+rpm -ivh http://nginx.org/packages/centos/6/noarch/RPMS/nginx-release-centos-6-0.el6.ngx.noarch.rpm
+2，查看yum的nginx信息
+
+ 
+
+[]# yum info nginx
+
+ 
+
+Loaded plugins: fastestmirror
+
+ 
+
+Determining fastest mirrors
+
+ 
+
+ * base: mirror.esocc.com
+
+ 
+
+ * extras: mirror.esocc.com
+
+ 
+
+ * updates: mirror.esocc.com
+
+ 
+
+base                                                     | 3.7 kB     00:00     
+
+ 
+
+base/primary_db                                          | 4.4 MB     00:28     
+
+ 
+
+extras                                                   | 3.5 kB     00:00     
+
+ 
+
+extras/primary_db                                        |  19 kB     00:00     
+
+ 
+
+nginx                                                    | 2.9 kB     00:00     
+
+ 
+
+nginx/primary_db                                         |  22 kB     00:00     
+
+ 
+
+updates                                                  | 3.5 kB     00:00     
+
+ 
+
+updates/primary_db                                       | 2.1 MB     00:10     
+
+ 
+
+Installed Packages
+
+ 
+
+Name        : nginx
+
+ 
+
+Arch        : x86_64
+
+ 
+
+Version     : 1.4.0
+
+ 
+
+Release     : 1.el6.ngx
+
+ 
+
+Size        : 874 k
+
+ 
+
+Repo        : installed
+
+ 
+
+From repo   : nginx
+
+ 
+
+Summary     : nginx is a high performance web server
+
+ 
+
+URL         : http://nginx.org/
+
+ 
+
+License     : 2-clause BSD-like license
+
+ 
+
+Description : nginx [engine x] is an HTTP and reverse proxy server, as well as
+
+ 
+
+            : a mail proxy server
+
+ 
+
+ 
+ 
+
+
+3，安装并启动nignx
+[root@server ~]# yum install nginx
+[root@server ~]# service nginx start
+Starting nginx:                                            [  OK  ]
+
+4，然后进入浏览器，输入http://192.168.0.161/测试，如果看到
+
+Welcome to nginx!
+
+If you see this page, the nginx web server is successfully installed and working. Further configuration is required.
+For online documentation and support please refer to nginx.org.
+Commercial support is available at nginx.com.
+Thank you for using nginx.
+ 恭喜你，你成功了！
